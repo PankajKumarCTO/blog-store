@@ -560,5 +560,41 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "The master capstone summary of Series 1, unifying 15 core tech concepts into an executive tech architecture map and 5 golden rules for technology leaders."
+  },
+  {
+    "id": "post-017",
+    "slug": "demystifying-cloud-finops-controlling-aws-azure-bills",
+    "title": "Demystifying Cloud FinOps: How CTOs Control Unexpected AWS & Azure Bills",
+    "description": "A beginner-friendly guide explaining Cloud FinOps using a leaking hotel water tap analogy, covering tagging, reserved instances, spot pricing, and cost unit economics.",
+    "contentPath": "users/pankajhyd/posts/demystifying-cloud-finops-controlling-aws-azure-bills.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "07-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 2: Finance & Tech Budgeting",
+      "Cloud FinOps",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "FinOps",
+      "Cloud Cost",
+      "AWS Budgeting",
+      "Beginners",
+      "Series 2",
+      "PPT Presentation"
+    ],
+    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "excerpt": "A beginner-friendly guide explaining Cloud FinOps using a leaking hotel water tap analogy, covering tagging, reserved instances, spot pricing, and cost unit economics."
   }
 ]
