@@ -208,5 +208,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly guide explaining APIs using a simple restaurant waiter analogy, showing how Uber and Google Maps integrate data seamlessly."
+  },
+  {
+    "id": "post-007",
+    "slug": "what-is-the-cloud-electric-power-grid-vs-backyard-generator",
+    "title": "What is the Cloud? Electric Power Grid vs Backyard Generator",
+    "description": "A beginner-friendly guide explaining cloud computing using an electric power grid analogy, covering AWS, IaaS, PaaS, and Netflix scaling.",
+    "contentPath": "users/pankajhyd/posts/what-is-the-cloud-electric-power-grid-vs-backyard-generator.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "04-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Cloud Computing",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Cloud Computing",
+      "AWS",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly guide explaining cloud computing using an electric power grid analogy, covering AWS, IaaS, PaaS, and Netflix scaling."
   }
 ]
