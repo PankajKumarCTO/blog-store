@@ -68,5 +68,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "Clear beginner guide explaining the real differences between CEO, CTO, CIO, and CDO roles using a fun movie production analogy."
+  },
+  {
+    "id": "post-003",
+    "slug": "vp-of-engineering-vs-cto-real-difference",
+    "title": "VP of Engineering vs CTO: What is the Real Difference?",
+    "description": "A beginner-friendly comparison explaining the distinct roles of VP of Engineering (Execution & People) and CTO (Strategy & Architecture) using army general and master chef analogies.",
+    "contentPath": "users/pankajhyd/posts/vp-of-engineering-vs-cto-real-difference.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "02-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Executive Leadership",
+      "Engineering Leadership"
+    ],
+    "tags": [
+      "VP of Engineering",
+      "CTO",
+      "Leadership",
+      "Series 1",
+      "Beginner Guide"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly comparison explaining the distinct roles of VP of Engineering (Execution & People) and CTO (Strategy & Architecture) using army general and master chef analogies."
   }
 ]
