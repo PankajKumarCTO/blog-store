@@ -243,5 +243,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly guide explaining cloud computing using an electric power grid analogy, covering AWS, IaaS, PaaS, and Netflix scaling."
+  },
+  {
+    "id": "post-008",
+    "slug": "what-is-saas-renting-apartments-vs-buying-real-estate",
+    "title": "What is SaaS? Renting Apartments vs Buying Real Estate",
+    "description": "A beginner-friendly guide explaining SaaS using an apartment renting analogy, covering multi-tenancy security, auto-upgrades, and cloud subscriptions.",
+    "contentPath": "users/pankajhyd/posts/what-is-saas-renting-apartments-vs-buying-real-estate.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "04-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "SaaS & Business Models",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "SaaS",
+      "Cloud Software",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly guide explaining SaaS using an apartment renting analogy, covering multi-tenancy security, auto-upgrades, and cloud subscriptions."
   }
 ]
