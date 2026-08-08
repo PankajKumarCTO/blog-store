@@ -812,5 +812,41 @@
     ],
     "series": "series-2-finance-tech-budgeting-cloud-finops",
     "excerpt": "A beginner-friendly guide explaining Technical Due Diligence in M&A using a used car pre-purchase inspection analogy, covering code quality, security liabilities, and GPL license risks."
+  },
+  {
+    "id": "post-024",
+    "slug": "vendor-lock-in-cloud-negotiation-strategy-avoiding-dependency",
+    "title": "Vendor Lock-in & Cloud Negotiation Strategy: How CTOs Avoid Vendor Dependency",
+    "description": "A beginner-friendly guide explaining vendor lock-in and cloud negotiation using a cable TV teaser deal analogy, covering containers, open standards, and EDP discounts.",
+    "contentPath": "users/pankajhyd/posts/vendor-lock-in-cloud-negotiation-strategy-avoiding-dependency.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "09-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 2: Finance & Tech Budgeting",
+      "Cloud Strategy",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Vendor Lock-in",
+      "Cloud Negotiation",
+      "Docker",
+      "Beginners",
+      "Series 2",
+      "PPT Presentation"
+    ],
+    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "excerpt": "A beginner-friendly guide explaining vendor lock-in and cloud negotiation using a cable TV teaser deal analogy, covering containers, open standards, and EDP discounts."
   }
 ]
