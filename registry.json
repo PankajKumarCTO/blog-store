@@ -1173,5 +1173,41 @@
     ],
     "series": "series-3-engineering-culture-team-topologies-talent",
     "excerpt": "A beginner-friendly guide explaining async-first remote work using an airport flight radar analogy, covering maker vs manager schedules, RFC decision-making, and deep work protection."
+  },
+  {
+    "id": "post-034",
+    "slug": "managing-technical-debt-refactoring-pitching-refactoring-to-product",
+    "title": "Managing Technical Debt & Refactoring: Pitching Refactoring to Product Managers",
+    "description": "A beginner-friendly guide explaining technical debt using a credit card interest analogy, covering prudent vs reckless debt, pitching refactoring in business metrics, and the 20% sprint rule.",
+    "contentPath": "users/pankajhyd/posts/managing-technical-debt-refactoring-pitching-refactoring-to-product.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "14-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Technical Debt Governance",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Technical Debt",
+      "Refactoring",
+      "Product Management",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "A beginner-friendly guide explaining technical debt using a credit card interest analogy, covering prudent vs reckless debt, pitching refactoring in business metrics, and the 20% sprint rule."
   }
 ]
