@@ -776,5 +776,41 @@
     ],
     "series": "series-2-finance-tech-budgeting-cloud-finops",
     "excerpt": "A beginner-friendly guide explaining the Build vs Buy software framework using a tailored suit vs off-the-rack analogy, covering competitive advantage, TCO, and opportunity cost."
+  },
+  {
+    "id": "post-023",
+    "slug": "tech-ma-technical-due-diligence-auditing-codebases-before-acquisitions",
+    "title": "Tech M&A Technical Due Diligence: How CTOs Audit Codebases Before Acquisitions",
+    "description": "A beginner-friendly guide explaining Technical Due Diligence in M&A using a used car pre-purchase inspection analogy, covering code quality, security liabilities, and GPL license risks.",
+    "contentPath": "users/pankajhyd/posts/tech-ma-technical-due-diligence-auditing-codebases-before-acquisitions.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "09-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 2: Finance & Tech Budgeting",
+      "Mergers & Acquisitions",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Technical Due Diligence",
+      "M&A",
+      "Code Audit",
+      "Beginners",
+      "Series 2",
+      "PPT Presentation"
+    ],
+    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "excerpt": "A beginner-friendly guide explaining Technical Due Diligence in M&A using a used car pre-purchase inspection analogy, covering code quality, security liabilities, and GPL license risks."
   }
 ]
