@@ -740,5 +740,41 @@
     ],
     "series": "series-2-finance-tech-budgeting-cloud-finops",
     "excerpt": "A beginner-friendly guide explaining SaaS license management and Shadow IT using a gym membership and secret pantry analogy, covering zombie licenses, SSO security, and cost reduction."
+  },
+  {
+    "id": "post-022",
+    "slug": "build-vs-buy-decision-framework-custom-code-vs-off-the-shelf",
+    "title": "Build vs Buy Decision Framework: When to Code Custom Software vs Buying Off-the-Shelf",
+    "description": "A beginner-friendly guide explaining the Build vs Buy software framework using a tailored suit vs off-the-rack analogy, covering competitive advantage, TCO, and opportunity cost.",
+    "contentPath": "users/pankajhyd/posts/build-vs-buy-decision-framework-custom-code-vs-off-the-shelf.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "08-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 2: Finance & Tech Budgeting",
+      "Strategic Sourcing",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Build vs Buy",
+      "Software Strategy",
+      "TCO",
+      "Beginners",
+      "Series 2",
+      "PPT Presentation"
+    ],
+    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "excerpt": "A beginner-friendly guide explaining the Build vs Buy software framework using a tailored suit vs off-the-rack analogy, covering competitive advantage, TCO, and opportunity cost."
   }
 ]
