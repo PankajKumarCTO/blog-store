@@ -993,5 +993,41 @@
     ],
     "series": "series-3-engineering-culture-team-topologies-talent",
     "excerpt": "A beginner-friendly guide explaining Blameless Postmortems using an aircraft crash investigation analogy, covering psychological safety, the 5 Whys technique, and incident root cause analysis."
+  },
+  {
+    "id": "post-029",
+    "slug": "developer-experience-devex-inner-loop-productivity-removing-friction",
+    "title": "Developer Experience (DevEx) & Inner Loop Productivity: Removing Friction for Engineers",
+    "description": "A beginner-friendly guide explaining Developer Experience (DevEx) using a highway tollbooth vs F1 pit stop analogy, covering inner loop feedback, self-service portals, and engineer retention.",
+    "contentPath": "users/pankajhyd/posts/developer-experience-devex-inner-loop-productivity-removing-friction.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "11-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Engineering Productivity",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "DevEx",
+      "Inner Loop",
+      "Developer Productivity",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "A beginner-friendly guide explaining Developer Experience (DevEx) using a highway tollbooth vs F1 pit stop analogy, covering inner loop feedback, self-service portals, and engineer retention."
   }
 ]
