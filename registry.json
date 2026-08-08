@@ -1065,5 +1065,41 @@
     ],
     "series": "series-3-engineering-culture-team-topologies-talent",
     "excerpt": "A beginner-friendly guide explaining DORA Metrics vs Vanity Metrics using a hospital patient recovery analogy, covering deployment frequency, lead time, change failure rate, and MTTR."
+  },
+  {
+    "id": "post-031",
+    "slug": "retaining-senior-technical-talent-dual-career-tracks-ic-vs-management",
+    "title": "Retaining Senior Technical Talent: Dual Career Tracks (IC vs Management)",
+    "description": "A beginner-friendly guide explaining Dual Career Tracks in tech using a master chef vs restaurant manager analogy, covering Staff/Principal IC paths, compensation parity, and the Peter Principle.",
+    "contentPath": "users/pankajhyd/posts/retaining-senior-technical-talent-dual-career-tracks-ic-vs-management.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "12-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Talent Retention",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Dual Career Ladder",
+      "Staff Engineer",
+      "Talent Retention",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "A beginner-friendly guide explaining Dual Career Tracks in tech using a master chef vs restaurant manager analogy, covering Staff/Principal IC paths, compensation parity, and the Peter Principle."
   }
 ]
