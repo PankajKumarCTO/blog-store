@@ -1029,5 +1029,41 @@
     ],
     "series": "series-3-engineering-culture-team-topologies-talent",
     "excerpt": "A beginner-friendly guide explaining Developer Experience (DevEx) using a highway tollbooth vs F1 pit stop analogy, covering inner loop feedback, self-service portals, and engineer retention."
+  },
+  {
+    "id": "post-030",
+    "slug": "engineering-metrics-that-matter-dora-metrics-vs-vanity-metrics",
+    "title": "Engineering Metrics That Matter: DORA Metrics vs Vanity Metrics",
+    "description": "A beginner-friendly guide explaining DORA Metrics vs Vanity Metrics using a hospital patient recovery analogy, covering deployment frequency, lead time, change failure rate, and MTTR.",
+    "contentPath": "users/pankajhyd/posts/engineering-metrics-that-matter-dora-metrics-vs-vanity-metrics.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "12-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Engineering Operations",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "DORA Metrics",
+      "Engineering Management",
+      "Metrics",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "A beginner-friendly guide explaining DORA Metrics vs Vanity Metrics using a hospital patient recovery analogy, covering deployment frequency, lead time, change failure rate, and MTTR."
   }
 ]
