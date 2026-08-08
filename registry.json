@@ -957,5 +957,41 @@
     ],
     "series": "series-3-engineering-culture-team-topologies-talent",
     "excerpt": "A beginner-friendly guide explaining Team Topologies using a professional football team analogy, covering stream-aligned teams, enabling teams, platform teams, and cognitive load."
+  },
+  {
+    "id": "post-028",
+    "slug": "building-a-blameless-postmortem-culture-turning-outages-into-learning",
+    "title": "Building a Blameless Postmortem Culture: Turning Outages into Team Learning",
+    "description": "A beginner-friendly guide explaining Blameless Postmortems using an aircraft crash investigation analogy, covering psychological safety, the 5 Whys technique, and incident root cause analysis.",
+    "contentPath": "users/pankajhyd/posts/building-a-blameless-postmortem-culture-turning-outages-into-learning.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "11-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Incident Management",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Blameless Postmortem",
+      "Incident Management",
+      "Engineering Culture",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "A beginner-friendly guide explaining Blameless Postmortems using an aircraft crash investigation analogy, covering psychological safety, the 5 Whys technique, and incident root cause analysis."
   }
 ]
