@@ -1,10 +1,10 @@
 [
   {
     "id": "post-1",
-    "slug": "first-90-days-as-startup-cto",
-    "title": "Navigating the First 90 Days as a Startup CTO",
-    "description": "A strategic playbook for new CTOs focusing on technical audits, team alignment, DORA metrics, and scaling engineering culture.",
-    "contentPath": "users/pankajhyd/posts/first-90-days-as-startup-cto.md",
+    "slug": "importance-of-cto-in-ai-led-industry",
+    "title": "What is a CTO? The Importance of a CTO in the AI-Led Industry",
+    "description": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, why the role is crucial in the AI era, featuring an interactive PPT presentation slide deck.",
+    "contentPath": "users/pankajhyd/posts/importance-of-cto-in-ai-led-industry.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -15,23 +15,23 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
     "date": "08-Aug-2026",
     "draft": false,
     "categories": [
       "Executive Leadership",
-      "Engineering Management",
-      "Strategy"
+      "AI Strategy",
+      "Beginner Guide"
     ],
     "tags": [
       "CTO",
+      "AI Industry",
       "Leadership",
-      "DORA Metrics",
-      "Architecture",
-      "Startup"
+      "Beginners",
+      "PPT Presentation"
     ],
     "series": "cto-leadership-handbook",
-    "excerpt": "A strategic playbook for new CTOs focusing on technical audits, team alignment, DORA metrics, and scaling engineering culture."
+    "excerpt": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, why the role is crucial in the AI era, featuring an interactive PPT presentation slide deck."
   }
 ]
