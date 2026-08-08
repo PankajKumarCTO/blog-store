@@ -278,5 +278,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly guide explaining SaaS using an apartment renting analogy, covering multi-tenancy security, auto-upgrades, and cloud subscriptions."
+  },
+  {
+    "id": "post-009",
+    "slug": "what-is-devops-merging-builders-and-maintenance-teams",
+    "title": "What is DevOps? Merging Builders and Maintenance Teams",
+    "description": "A beginner-friendly guide explaining DevOps using a Formula 1 pit stop analogy, covering CI/CD pipelines, automated testing, and Infrastructure as Code.",
+    "contentPath": "users/pankajhyd/posts/what-is-devops-merging-builders-and-maintenance-teams.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "04-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "DevOps & Workflows",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly guide explaining DevOps using a Formula 1 pit stop analogy, covering CI/CD pipelines, automated testing, and Infrastructure as Code."
   }
 ]
