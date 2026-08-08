@@ -885,5 +885,41 @@
     ],
     "series": "series-2-finance-tech-budgeting-cloud-finops",
     "excerpt": "A beginner-friendly guide explaining FinTech payment systems using a casino coat check analogy, covering PCI-DSS compliance, payment gateways, and credit card tokenization."
+  },
+  {
+    "id": "post-026",
+    "slug": "the-executive-finance-budgeting-masterclass-summary-capstone-guide",
+    "title": "The Executive Finance & Tech Budgeting Masterclass: Summary & Series 2 Capstone Guide",
+    "description": "The master capstone summary of Series 2, unifying Cloud FinOps, ROI, CapEx vs OpEx, SaaS management, and M&A technical due diligence into an executive tech finance playbook.",
+    "contentPath": "users/pankajhyd/posts/the-executive-finance-budgeting-masterclass-summary-capstone-guide.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "7 min read",
+    "date": "10-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 2: Finance & Tech Budgeting",
+      "Executive Finance",
+      "Capstone Guide"
+    ],
+    "tags": [
+      "Tech Finance",
+      "Executive Budgeting",
+      "Cloud FinOps",
+      "Beginners",
+      "Series 2",
+      "PPT Presentation"
+    ],
+    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "excerpt": "The master capstone summary of Series 2, unifying Cloud FinOps, ROI, CapEx vs OpEx, SaaS management, and M&A technical due diligence into an executive tech finance playbook."
   }
 ]
