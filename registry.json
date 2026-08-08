@@ -921,5 +921,41 @@
     ],
     "series": "series-2-finance-tech-budgeting-cloud-finops",
     "excerpt": "The master capstone summary of Series 2, unifying Cloud FinOps, ROI, CapEx vs OpEx, SaaS management, and M&A technical due diligence into an executive tech finance playbook."
+  },
+  {
+    "id": "post-027",
+    "slug": "what-is-team-topologies-structuring-stream-aligned-vs-enabling-teams",
+    "title": "What is Team Topologies? Structuring Stream-Aligned vs Enabling Teams",
+    "description": "A beginner-friendly guide explaining Team Topologies using a professional football team analogy, covering stream-aligned teams, enabling teams, platform teams, and cognitive load.",
+    "contentPath": "users/pankajhyd/posts/what-is-team-topologies-structuring-stream-aligned-vs-enabling-teams.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "11-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Organizational Design",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Team Topologies",
+      "Engineering Culture",
+      "Org Structure",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "A beginner-friendly guide explaining Team Topologies using a professional football team analogy, covering stream-aligned teams, enabling teams, platform teams, and cognitive load."
   }
 ]

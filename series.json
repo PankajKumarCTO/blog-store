@@ -76,5 +76,20 @@
       "post-026"
     ],
     "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "series-3-engineering-culture-team-topologies-talent",
+    "title": "Series 3: Engineering Culture, Team Topologies & Talent Retention",
+    "description": "An executive masterclass on structuring software engineering teams, reducing cognitive load, scaling team topologies, building blameless postmortem cultures, and retaining top technical talent.",
+    "author": "pankajhyd",
+    "articleIds": [
+      "post-027"
+    ],
+    "status": "ongoing",
+    "createdAt": "11-Jan-2026",
+    "posts": [
+      "post-027"
+    ],
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80"
   }
 ]
