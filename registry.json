@@ -1317,5 +1317,41 @@
     ],
     "series": "series-4-system-architecture-high-availability-disaster-recovery",
     "excerpt": "A beginner-friendly guide explaining High Availability using a hospital backup generator analogy, covering SLA, SLO, SLI, active-passive failover, and the exponential cost of nines."
+  },
+  {
+    "id": "post-038",
+    "slug": "disaster-recovery-business-continuity-rto-rpo-backup-strategies",
+    "title": "Disaster Recovery & Business Continuity: RTO, RPO, and Backup Strategies",
+    "description": "A beginner-friendly guide explaining Disaster Recovery using a bank vault analogy, covering RTO, RPO, cold vs hot failover strategies, and the 3-2-1 backup rule.",
+    "contentPath": "users/pankajhyd/posts/disaster-recovery-business-continuity-rto-rpo-backup-strategies.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "16-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 4: System Architecture",
+      "Disaster Recovery",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Disaster Recovery",
+      "RTO",
+      "RPO",
+      "Backups",
+      "Series 4",
+      "PPT Presentation"
+    ],
+    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "excerpt": "A beginner-friendly guide explaining Disaster Recovery using a bank vault analogy, covering RTO, RPO, cold vs hot failover strategies, and the 3-2-1 backup rule."
   }
 ]
