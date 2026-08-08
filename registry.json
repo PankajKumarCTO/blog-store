@@ -1137,5 +1137,41 @@
     ],
     "series": "series-3-engineering-culture-team-topologies-talent",
     "excerpt": "A beginner-friendly guide explaining developer onboarding using a restaurant line cook analogy, covering Time-to-First-PR, automated Codespaces, onboarding buddies, and 30-60-90 day plans."
+  },
+  {
+    "id": "post-033",
+    "slug": "remote-hybrid-engineering-teams-async-first-communication-deep-work",
+    "title": "Remote & Hybrid Engineering Teams: Async-First Communication & Deep Work",
+    "description": "A beginner-friendly guide explaining async-first remote work using an airport flight radar analogy, covering maker vs manager schedules, RFC decision-making, and deep work protection.",
+    "contentPath": "users/pankajhyd/posts/remote-hybrid-engineering-teams-async-first-communication-deep-work.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "13-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Remote Leadership",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Remote Teams",
+      "Async Communication",
+      "Deep Work",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "A beginner-friendly guide explaining async-first remote work using an airport flight radar analogy, covering maker vs manager schedules, RFC decision-making, and deep work protection."
   }
 ]
