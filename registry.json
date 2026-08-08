@@ -348,5 +348,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly architectural comparison of Monoliths vs Microservices using a castle vs village analogy, explaining fault isolation and engineering trade-offs."
+  },
+  {
+    "id": "post-011",
+    "slug": "what-is-tech-debt-credit-card-debt-for-software",
+    "title": "What is Tech Debt? Credit Card Debt for Software",
+    "description": "A beginner-friendly guide explaining technical debt using a credit card analogy, covering strategic vs reckless debt, interest rates, and the 20% sprint rule.",
+    "contentPath": "users/pankajhyd/posts/what-is-tech-debt-credit-card-debt-for-software.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "05-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Engineering Leadership",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Tech Debt",
+      "Engineering Management",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly guide explaining technical debt using a credit card analogy, covering strategic vs reckless debt, interest rates, and the 20% sprint rule."
   }
 ]
