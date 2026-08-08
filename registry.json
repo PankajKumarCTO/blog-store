@@ -418,5 +418,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly comparison of open source vs proprietary software using a public library vs private secret vault analogy, covering security, licensing, and open AI."
+  },
+  {
+    "id": "post-013",
+    "slug": "what-is-cybersecurity-castle-moats-vs-modern-zero-trust",
+    "title": "What is Cybersecurity? Castle Moats vs Modern Zero Trust Security",
+    "description": "A beginner-friendly guide explaining cybersecurity using a castle moat vs Zero Trust architecture analogy, covering phishing, ransomware, MFA, and encryption.",
+    "contentPath": "users/pankajhyd/posts/what-is-cybersecurity-castle-moats-vs-modern-zero-trust.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "06-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Cybersecurity & Governance",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Cybersecurity",
+      "Zero Trust",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly guide explaining cybersecurity using a castle moat vs Zero Trust architecture analogy, covering phishing, ransomware, MFA, and encryption."
   }
 ]
