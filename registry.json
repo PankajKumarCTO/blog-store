@@ -1209,5 +1209,41 @@
     ],
     "series": "series-3-engineering-culture-team-topologies-talent",
     "excerpt": "A beginner-friendly guide explaining technical debt using a credit card interest analogy, covering prudent vs reckless debt, pitching refactoring in business metrics, and the 20% sprint rule."
+  },
+  {
+    "id": "post-035",
+    "slug": "the-engineering-culture-leadership-masterclass-summary-capstone-guide",
+    "title": "The Engineering Culture & Leadership Masterclass: Summary & Series 3 Capstone Guide",
+    "description": "The master capstone summary of Series 3, unifying Team Topologies, blameless postmortems, DevEx, DORA metrics, dual career tracks, and technical debt governance into a leadership playbook.",
+    "contentPath": "users/pankajhyd/posts/the-engineering-culture-leadership-masterclass-summary-capstone-guide.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "7 min read",
+    "date": "14-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Engineering Culture",
+      "Leadership Capstone",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Engineering Culture",
+      "Team Topologies",
+      "Leadership",
+      "Beginners",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-engineering-culture-team-topologies-talent",
+    "excerpt": "The master capstone summary of Series 3, unifying Team Topologies, blameless postmortems, DevEx, DORA metrics, dual career tracks, and technical debt governance into a leadership playbook."
   }
 ]
