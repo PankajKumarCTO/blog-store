@@ -1,16 +1,18 @@
 [
   {
-    "id": "cto-leadership-handbook",
-    "title": "The CTO Leadership Handbook",
-    "description": "Essential frameworks, strategies, and playbooks for technology leaders, VPs of Engineering, and Chief Technology Officers.",
+    "id": "series-1-cto-fundamentals-jargon-buster",
+    "title": "Series 1: CTO Fundamentals & Tech Jargon Buster",
+    "description": "A 16-part beginner-friendly masterclass demystifying Chief Technology Officer roles, corporate titles, software architecture, cloud, SaaS, DevOps, APIs, and AI using simple everyday analogies.",
     "author": "pankajhyd",
     "articleIds": [
-      "post-1"
+      "post-001",
+      "post-002"
     ],
     "status": "ongoing",
-    "createdAt": "08-Aug-2026",
+    "createdAt": "02-Jan-2026",
     "posts": [
-      "post-1"
+      "post-001",
+      "post-002"
     ],
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
   }

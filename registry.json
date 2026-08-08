@@ -1,10 +1,10 @@
 [
   {
-    "id": "post-1",
-    "slug": "importance-of-cto-in-ai-led-industry",
-    "title": "What is a CTO? The Importance of a CTO in the AI-Led Industry",
-    "description": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, why the role is crucial in the AI era, featuring an interactive PPT presentation slide deck.",
-    "contentPath": "users/pankajhyd/posts/importance-of-cto-in-ai-led-industry.md",
+    "id": "post-001",
+    "slug": "what-is-a-cto-demystifying-chief-technology-officer",
+    "title": "What is a CTO? Demystifying Chief Technology Officer for Beginners",
+    "description": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, featuring simple ship captain analogies, interactive slide deck, and AI responsibilities.",
+    "contentPath": "users/pankajhyd/posts/what-is-a-cto-demystifying-chief-technology-officer.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -15,23 +15,58 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
     "readTime": "5 min read",
-    "date": "08-Aug-2026",
+    "date": "02-Jan-2026",
     "draft": false,
     "categories": [
+      "Series 1: CTO Fundamentals",
       "Executive Leadership",
-      "AI Strategy",
       "Beginner Guide"
     ],
     "tags": [
       "CTO",
-      "AI Industry",
       "Leadership",
       "Beginners",
+      "Series 1",
       "PPT Presentation"
     ],
-    "series": "cto-leadership-handbook",
-    "excerpt": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, why the role is crucial in the AI era, featuring an interactive PPT presentation slide deck."
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, featuring simple ship captain analogies, interactive slide deck, and AI responsibilities."
+  },
+  {
+    "id": "post-002",
+    "slug": "ceo-vs-cto-vs-cio-vs-cdo-who-does-what",
+    "title": "CEO vs CTO vs CIO vs CDO: Who Does What in a Tech Company?",
+    "description": "Clear beginner guide explaining the real differences between CEO, CTO, CIO, and CDO roles using a fun movie production analogy.",
+    "contentPath": "users/pankajhyd/posts/ceo-vs-cto-vs-cio-vs-cdo-who-does-what.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "02-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Executive Leadership",
+      "C-Suite Roles"
+    ],
+    "tags": [
+      "CEO vs CTO",
+      "C-Suite",
+      "Leadership",
+      "Series 1",
+      "Beginner Guide"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "Clear beginner guide explaining the real differences between CEO, CTO, CIO, and CDO roles using a fun movie production analogy."
   }
 ]
