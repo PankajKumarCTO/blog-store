@@ -19,9 +19,10 @@
       "post-012",
       "post-013",
       "post-014",
-      "post-015"
+      "post-015",
+      "post-016"
     ],
-    "status": "ongoing",
+    "status": "completed",
     "createdAt": "02-Jan-2026",
     "posts": [
       "post-001",
@@ -38,7 +39,8 @@
       "post-012",
       "post-013",
       "post-014",
-      "post-015"
+      "post-015",
+      "post-016"
     ],
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
   }

@@ -525,5 +525,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly guide explaining Generative AI and Large Language Models using a well-read intern analogy, covering next-word prediction, hallucinations, and RAG."
+  },
+  {
+    "id": "post-016",
+    "slug": "the-modern-executive-tech-stack-summary-capstone-guide",
+    "title": "The Modern Executive Tech Stack: Summary & Capstone Guide for Non-Tech Leaders",
+    "description": "The master capstone summary of Series 1, unifying 15 core tech concepts into an executive tech architecture map and 5 golden rules for technology leaders.",
+    "contentPath": "users/pankajhyd/posts/the-modern-executive-tech-stack-summary-capstone-guide.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "7 min read",
+    "date": "06-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Executive Leadership",
+      "Capstone Guide"
+    ],
+    "tags": [
+      "Tech Leadership",
+      "Executive Tech Stack",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "The master capstone summary of Series 1, unifying 15 core tech concepts into an executive tech architecture map and 5 golden rules for technology leaders."
   }
 ]
