@@ -596,5 +596,41 @@
     ],
     "series": "series-2-finance-tech-budgeting-cloud-finops",
     "excerpt": "A beginner-friendly guide explaining Cloud FinOps using a leaking hotel water tap analogy, covering tagging, reserved instances, spot pricing, and cost unit economics."
+  },
+  {
+    "id": "post-018",
+    "slug": "capex-vs-opex-in-tech-buying-servers-vs-renting-cloud",
+    "title": "CapEx vs OpEx in Tech: Buying Server Hardware vs Renting Cloud Utility",
+    "description": "A beginner-friendly guide explaining CapEx vs OpEx using a delivery fleet vs Uber Freight analogy, covering financial accounting, balance sheets, and cloud flexibility.",
+    "contentPath": "users/pankajhyd/posts/capex-vs-opex-in-tech-buying-servers-vs-renting-cloud.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "07-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 2: Finance & Tech Budgeting",
+      "Financial Accounting",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "CapEx vs OpEx",
+      "Tech Finance",
+      "Cloud Accounting",
+      "Beginners",
+      "Series 2",
+      "PPT Presentation"
+    ],
+    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "excerpt": "A beginner-friendly guide explaining CapEx vs OpEx using a delivery fleet vs Uber Freight analogy, covering financial accounting, balance sheets, and cloud flexibility."
   }
 ]
