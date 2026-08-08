@@ -126,4 +126,4 @@ Ensuring customer passwords, credit card numbers, and private data are locked in
 
 ---
 
-*Written by **Pankaj Kumar** | Associate Architect & Tech Leadership Writer at CTO Insights | MyCodeYatra.*
+*Written by **Pankaj Kumar** | Associate Architect & Tech Leadership.*
