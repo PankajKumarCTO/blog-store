@@ -3,7 +3,7 @@
 - **Full Form:** Chief Technology Officer.
 - **The Ship Analogy:** CEO is the Captain deciding destination; CTO is the Chief Engineer building the engine.
 - **Main Goal:** Turning business ideas into real, working technology products.
-- **Author:** Pankaj Kumar | CTO Insights
+- **Author:** Pankaj Kumar | Associate Architect & Tech Leadership Writer
 <!-- slide -->
 # Slide 2: Real-World Analogy: Car Engines & AI
 - **Old World (Petrol Engine):** Writing line-by-line code manually.
@@ -18,7 +18,7 @@
 # Slide 4: Real-Time Example: Hospital AI Assistant
 - **Problem:** Doctors spending 4 hours a day typing patient reports manually.
 - **Without a CTO:** Buying risky AI software that leaks patient privacy data.
-- **With CTO Pankaj Kumar:** Deploying an encrypted, safe AI model saving doctors 3 hours daily while keeping records 100% private.
+- **With a CTO:** Deploying an encrypted, safe AI model saving doctors 3 hours daily while keeping records 100% private.
 <!-- slide -->
 # Slide 5: Real-Time Example: E-Commerce Surge
 - **Problem:** Online shopping store crashing during Black Friday sale rush.
@@ -74,12 +74,12 @@ Let's look at two real-world stories to understand why a CTO is essential:
 ### 🏥 Scenario A: The Hospital AI Assistant
 - **The Problem:** A hospital's doctors are overwhelmed, spending 4 hours every evening typing patient medical reports manually.
 - **Without a CTO:** The hospital management might panic and buy an unverified, expensive AI tool from the internet that accidentally leaks private patient records online.
-- **With CTO Pankaj Kumar:** The CTO evaluates 50 AI tools, selects a private, encrypted AI model, tests it with the engineering team, and deploys it safely. Now doctors save 3 hours every day while patient records stay 100% secure.
+- **With a CTO:** The CTO evaluates 50 AI tools, selects a private, encrypted AI model, tests it with the engineering team, and deploys it safely. Now doctors save 3 hours every day while patient records stay 100% secure.
 
 ### 🛍️ Scenario B: The Online Shopping Rush
 - **The Problem:** An e-commerce store expects 500,000 shoppers during a big holiday sale.
 - **Without a CTO:** The website crashes within 3 minutes of the sale starting, losing millions in revenue.
-- **With CTO Pankaj Kumar:** The CTO builds an automated cloud system that expands server power as traffic grows, allowing all 500,000 users to checkout smoothly without a single glitch.
+- **With a CTO:** The CTO builds an automated cloud system that expands server power as traffic grows, allowing all 500,000 users to checkout smoothly without a single glitch.
 
 ---
 
@@ -87,7 +87,7 @@ Let's look at two real-world stories to understand why a CTO is essential:
 
 ```mermaid
 graph TD;
-    CTO[CTO Leadership - Pankaj Kumar] --> Vision[1. Technical & AI Vision];
+    CTO[CTO Leadership Framework] --> Vision[1. Technical & AI Vision];
     CTO --> People[2. Team & Engineering Leadership];
     CTO --> Security[3. Cybersecurity & Data Safety];
     
@@ -126,4 +126,4 @@ Ensuring customer passwords, credit card numbers, and private data are locked in
 
 ---
 
-*Written by **Pankaj Kumar** | Associate Architect & Tech Strategy Lead at CTO Insights | MyCodeYatra.*
+*Written by **Pankaj Kumar** | Associate Architect & Tech Leadership Writer at CTO Insights | MyCodeYatra.*
