@@ -52,14 +52,16 @@
     "articleIds": [
       "post-017",
       "post-018",
-      "post-019"
+      "post-019",
+      "post-020"
     ],
     "status": "ongoing",
     "createdAt": "07-Jan-2026",
     "posts": [
       "post-017",
       "post-018",
-      "post-019"
+      "post-019",
+      "post-020"
     ],
     "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80"
   }

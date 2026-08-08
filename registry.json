@@ -668,5 +668,41 @@
     ],
     "series": "series-2-finance-tech-budgeting-cloud-finops",
     "excerpt": "A beginner-friendly guide explaining Software ROI using an automated coffee machine analogy, covering financial returns, cost avoidance, payback period, and pitching to CFOs."
+  },
+  {
+    "id": "post-020",
+    "slug": "building-a-board-ready-engineering-budget-winning-board-approval",
+    "title": "Building a Board-Ready Engineering Budget: How CTOs Win Board Approval",
+    "description": "A beginner-friendly guide explaining how to build an engineering budget using a house renovation analogy, covering the 4 investment buckets, scenario planning, and board presentation.",
+    "contentPath": "users/pankajhyd/posts/building-a-board-ready-engineering-budget-winning-board-approval.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "07-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 2: Finance & Tech Budgeting",
+      "Executive Governance",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Board Presentation",
+      "Engineering Budget",
+      "Tech Governance",
+      "Beginners",
+      "Series 2",
+      "PPT Presentation"
+    ],
+    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "excerpt": "A beginner-friendly guide explaining how to build an engineering budget using a house renovation analogy, covering the 4 investment buckets, scenario planning, and board presentation."
   }
 ]
