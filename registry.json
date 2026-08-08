@@ -383,5 +383,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly guide explaining technical debt using a credit card analogy, covering strategic vs reckless debt, interest rates, and the 20% sprint rule."
+  },
+  {
+    "id": "post-012",
+    "slug": "open-source-vs-proprietary-software-public-libraries-vs-private-vaults",
+    "title": "Open Source vs Proprietary Software: Public Libraries vs Private Vaults",
+    "description": "A beginner-friendly comparison of open source vs proprietary software using a public library vs private secret vault analogy, covering security, licensing, and open AI.",
+    "contentPath": "users/pankajhyd/posts/open-source-vs-proprietary-software-public-libraries-vs-private-vaults.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "05-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Software Ecosystems",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Open Source",
+      "Proprietary Software",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly comparison of open source vs proprietary software using a public library vs private secret vault analogy, covering security, licensing, and open AI."
   }
 ]
