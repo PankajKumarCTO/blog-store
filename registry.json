@@ -103,5 +103,40 @@
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
     "excerpt": "A beginner-friendly comparison explaining the distinct roles of VP of Engineering (Execution & People) and CTO (Strategy & Architecture) using army general and master chef analogies."
+  },
+  {
+    "id": "post-004",
+    "slug": "what-is-software-architecture-houses-vs-software-systems",
+    "title": "What is Software Architecture? Houses vs Software Systems",
+    "description": "A beginner-friendly guide demystifying software architecture using a simple house construction analogy, covering scalability, security, and maintainability.",
+    "contentPath": "users/pankajhyd/posts/what-is-software-architecture-houses-vs-software-systems.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "5 min read",
+    "date": "03-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 1: CTO Fundamentals",
+      "Software Architecture",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Software Architecture",
+      "System Design",
+      "Beginners",
+      "Series 1",
+      "PPT Presentation"
+    ],
+    "series": "series-1-cto-fundamentals-jargon-buster",
+    "excerpt": "A beginner-friendly guide demystifying software architecture using a simple house construction analogy, covering scalability, security, and maintainability."
   }
 ]
