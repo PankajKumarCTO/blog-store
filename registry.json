@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "post-1",
+    "slug": "first-90-days-as-startup-cto",
+    "title": "Navigating the First 90 Days as a Startup CTO",
+    "description": "A strategic playbook for new CTOs focusing on technical audits, team alignment, DORA metrics, and scaling engineering culture.",
+    "contentPath": "users/pankajhyd/posts/first-90-days-as-startup-cto.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Chief Technology Officer",
+      "avatar": "https://avatars.githubusercontent.com/u/1000000?v=4",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://linkedin.com/in/pankajhyd"
+    },
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "08-Aug-2026",
+    "draft": false,
+    "categories": [
+      "Executive Leadership",
+      "Engineering Management",
+      "Strategy"
+    ],
+    "tags": [
+      "CTO",
+      "Leadership",
+      "DORA Metrics",
+      "Architecture",
+      "Startup"
+    ],
+    "series": "cto-leadership-handbook",
+    "excerpt": "A strategic playbook for new CTOs focusing on technical audits, team alignment, DORA metrics, and scaling engineering culture."
+  }
+]

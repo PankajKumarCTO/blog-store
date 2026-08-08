@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "cto-leadership-handbook",
+    "title": "The CTO Leadership Handbook",
+    "description": "Essential frameworks, strategies, and playbooks for technology leaders, VPs of Engineering, and Chief Technology Officers.",
+    "author": "pankajhyd",
+    "articleIds": [
+      "post-1"
+    ],
+    "status": "ongoing",
+    "createdAt": "08-Aug-2026",
+    "posts": [
+      "post-1"
+    ],
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+  }
+]
