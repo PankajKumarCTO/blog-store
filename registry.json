@@ -1425,5 +1425,41 @@
     ],
     "series": "series-4-system-architecture-high-availability-disaster-recovery",
     "excerpt": "A beginner-friendly guide explaining database scaling using a public library analogy, covering Redis in-memory caching, read-write splitting, and horizontal sharding."
+  },
+  {
+    "id": "post-041",
+    "slug": "event-driven-architecture-vs-request-response-kafka-rabbitmq-async-queues",
+    "title": "Event-Driven Architecture vs Request-Response: Kafka, RabbitMQ, and Async Queues",
+    "description": "A beginner-friendly guide explaining Event-Driven Architecture using a restaurant buzzer analogy, covering Kafka, RabbitMQ message queues, and async background processing.",
+    "contentPath": "users/pankajhyd/posts/event-driven-architecture-vs-request-response-kafka-rabbitmq-async-queues.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "17-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 4: System Architecture",
+      "Event-Driven Architecture",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Event-Driven Architecture",
+      "Kafka",
+      "RabbitMQ",
+      "Async Queues",
+      "Series 4",
+      "PPT Presentation"
+    ],
+    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "excerpt": "A beginner-friendly guide explaining Event-Driven Architecture using a restaurant buzzer analogy, covering Kafka, RabbitMQ message queues, and async background processing."
   }
 ]
