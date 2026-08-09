@@ -133,5 +133,17 @@
       "post-048"
     ],
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "series-4-engineering-culture-hiring-team-topologies",
+    "title": "Series 4: Engineering Culture, Hiring & Team Topologies",
+    "description": "Mastering technical talent sourcing, team topologies, DevEx, and high-performance engineering culture.",
+    "articleIds": [
+      "post-049"
+    ],
+    "posts": [
+      "post-049"
+    ],
+    "status": "ongoing"
   }
 ]
