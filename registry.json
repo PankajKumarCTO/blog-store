@@ -1389,5 +1389,41 @@
     ],
     "series": "series-4-system-architecture-high-availability-disaster-recovery",
     "excerpt": "A beginner-friendly guide explaining traffic management using airport security and local warehouse analogies, covering L4 vs L7 load balancing, global CDN caching, and routing algorithms."
+  },
+  {
+    "id": "post-040",
+    "slug": "database-scaling-strategies-read-replicas-sharding-caching",
+    "title": "Database Scaling Strategies: Read Replicas, Sharding, and Caching Layers",
+    "description": "A beginner-friendly guide explaining database scaling using a public library analogy, covering Redis in-memory caching, read-write splitting, and horizontal sharding.",
+    "contentPath": "users/pankajhyd/posts/database-scaling-strategies-read-replicas-sharding-caching.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "17-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 4: System Architecture",
+      "Database Scaling",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Database Scaling",
+      "Redis",
+      "Read Replicas",
+      "Sharding",
+      "Series 4",
+      "PPT Presentation"
+    ],
+    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "excerpt": "A beginner-friendly guide explaining database scaling using a public library analogy, covering Redis in-memory caching, read-write splitting, and horizontal sharding."
   }
 ]
