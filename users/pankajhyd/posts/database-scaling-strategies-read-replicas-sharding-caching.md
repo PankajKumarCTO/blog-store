@@ -58,12 +58,10 @@ Imagine managing a busy public library:
 ```mermaid
 graph TD;
     Request["User Request"] --> Cache{"1. Redis Cache (Desk Sticky Note)"};
-    Cache -->|Cache Hit (Fast 1ms)| Return["Return Cached Data ✅"];
-    
+    Cache -->|Cache Hit| Return["Return Cached Data"];
     Cache -->|Cache Miss| ReadReplica["2. Read Replicas (Photocopied Library Books)"];
     ReadReplica -->|Write Operation| PrimaryDB["3. Primary DB (Librarian Master Ledger)"];
-
-    PrimaryDB -->|Hyper-Scale | Shard["4. Sharded DB (Alphabetical Rooms A-M / N-Z)"];
+    PrimaryDB -->|Hyper-Scale| Shard["4. Sharded DB (Alphabetical Rooms)"];
 ```
 
 - **In-Memory Caching (The Desk Sticky Note):**  
