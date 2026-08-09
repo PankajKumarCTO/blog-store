@@ -1,10 +1,10 @@
 [
   {
     "id": "post-001",
-    "slug": "what-is-a-cto-demystifying-chief-technology-officer",
+    "slug": "what-is-a-cto-demystifying-chief-technology-officer-for-beginners",
     "title": "What is a CTO? Demystifying Chief Technology Officer for Beginners",
-    "description": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, featuring simple ship captain analogies, interactive slide deck, and AI responsibilities.",
-    "contentPath": "users/pankajhyd/posts/what-is-a-cto-demystifying-chief-technology-officer.md",
+    "description": "Bite-sized micro-guide breaking down What is a CTO? Demystifying Chief Technology Officer for Beginners with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-a-cto-demystifying-chief-technology-officer-for-beginners.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -16,30 +16,29 @@
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
+    "readTime": "6 min read",
     "date": "02-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Executive Leadership",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "CTO",
-      "Leadership",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining what a Chief Technology Officer (CTO) does, featuring simple ship captain analogies, interactive slide deck, and AI responsibilities."
+    "excerpt": "Bite-sized micro-guide breaking down What is a CTO? Demystifying Chief Technology Officer for Beginners with clear real-world analogies."
   },
   {
     "id": "post-002",
-    "slug": "ceo-vs-cto-vs-cio-vs-cdo-who-does-what",
+    "slug": "ceo-vs-cto-vs-cio-vs-cdo-who-does-what-in-a-tech-company",
     "title": "CEO vs CTO vs CIO vs CDO: Who Does What in a Tech Company?",
-    "description": "Clear beginner guide explaining the real differences between CEO, CTO, CIO, and CDO roles using a fun movie production analogy.",
-    "contentPath": "users/pankajhyd/posts/ceo-vs-cto-vs-cio-vs-cdo-who-does-what.md",
+    "description": "Bite-sized micro-guide breaking down CEO vs CTO vs CIO vs CDO with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/ceo-vs-cto-vs-cio-vs-cdo-who-does-what-in-a-tech-company.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -50,31 +49,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
     "readTime": "6 min read",
     "date": "02-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Executive Leadership",
-      "C-Suite Roles"
-    ],
-    "tags": [
-      "CEO vs CTO",
-      "C-Suite",
-      "Leadership",
-      "Series 1",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
+    "tags": [
+      "Beginner Foundations",
+      "Executive Leadership",
+      "Series 1",
+      "PPT Presentation"
+    ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "Clear beginner guide explaining the real differences between CEO, CTO, CIO, and CDO roles using a fun movie production analogy."
+    "excerpt": "Bite-sized micro-guide breaking down CEO vs CTO vs CIO vs CDO with clear real-world analogies."
   },
   {
     "id": "post-003",
-    "slug": "vp-of-engineering-vs-cto-real-difference",
+    "slug": "vp-of-engineering-vs-cto-what-is-the-real-difference",
     "title": "VP of Engineering vs CTO: What is the Real Difference?",
-    "description": "A beginner-friendly comparison explaining the distinct roles of VP of Engineering (Execution & People) and CTO (Strategy & Architecture) using army general and master chef analogies.",
-    "contentPath": "users/pankajhyd/posts/vp-of-engineering-vs-cto-real-difference.md",
+    "description": "Bite-sized micro-guide breaking down VP of Engineering vs CTO with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/vp-of-engineering-vs-cto-what-is-the-real-difference.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -85,30 +83,29 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
     "readTime": "6 min read",
-    "date": "02-Jan-2026",
+    "date": "03-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Executive Leadership",
-      "Engineering Leadership"
-    ],
-    "tags": [
-      "VP of Engineering",
-      "CTO",
-      "Leadership",
-      "Series 1",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
+    "tags": [
+      "Beginner Foundations",
+      "Executive Leadership",
+      "Series 1",
+      "PPT Presentation"
+    ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly comparison explaining the distinct roles of VP of Engineering (Execution & People) and CTO (Strategy & Architecture) using army general and master chef analogies."
+    "excerpt": "Bite-sized micro-guide breaking down VP of Engineering vs CTO with clear real-world analogies."
   },
   {
     "id": "post-004",
     "slug": "what-is-software-architecture-houses-vs-software-systems",
     "title": "What is Software Architecture? Houses vs Software Systems",
-    "description": "A beginner-friendly guide demystifying software architecture using a simple house construction analogy, covering scalability, security, and maintainability.",
+    "description": "Bite-sized micro-guide breaking down What is Software Architecture? Houses vs Software Systems with clear real-world analogies.",
     "contentPath": "users/pankajhyd/posts/what-is-software-architecture-houses-vs-software-systems.md",
     "author": "pankajhyd",
     "authorDetails": {
@@ -120,30 +117,29 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
     "date": "03-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Software Architecture",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Software Architecture",
-      "System Design",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide demystifying software architecture using a simple house construction analogy, covering scalability, security, and maintainability."
+    "excerpt": "Bite-sized micro-guide breaking down What is Software Architecture? Houses vs Software Systems with clear real-world analogies."
   },
   {
     "id": "post-005",
     "slug": "what-is-code-explaining-programming-to-non-tech-executives",
     "title": "What is Code? Explaining Programming to Non-Tech Executives",
-    "description": "A beginner-friendly guide explaining what programming code is using a robot chef recipe analogy, covering variables, conditions, loops, and compilers.",
+    "description": "Bite-sized micro-guide breaking down What is Code? Explaining Programming to Non-Tech Executives with clear real-world analogies.",
     "contentPath": "users/pankajhyd/posts/what-is-code-explaining-programming-to-non-tech-executives.md",
     "author": "pankajhyd",
     "authorDetails": {
@@ -155,31 +151,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
-    "date": "03-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "04-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Software Foundations",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Code",
-      "Programming",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining what programming code is using a robot chef recipe analogy, covering variables, conditions, loops, and compilers."
+    "excerpt": "Bite-sized micro-guide breaking down What is Code? Explaining Programming to Non-Tech Executives with clear real-world analogies."
   },
   {
     "id": "post-006",
-    "slug": "what-is-an-api-the-restaurant-waiter-analogy",
+    "slug": "what-is-an-api-the-restaurant-waiter-analogy-explained",
     "title": "What is an API? The Restaurant Waiter Analogy Explained",
-    "description": "A beginner-friendly guide explaining APIs using a simple restaurant waiter analogy, showing how Uber and Google Maps integrate data seamlessly.",
-    "contentPath": "users/pankajhyd/posts/what-is-an-api-the-restaurant-waiter-analogy.md",
+    "description": "Bite-sized micro-guide breaking down What is an API? The Restaurant Waiter Analogy Explained with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-an-api-the-restaurant-waiter-analogy-explained.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -190,30 +185,29 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
-    "date": "03-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "04-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "APIs & Interoperability",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "API",
-      "Integration",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining APIs using a simple restaurant waiter analogy, showing how Uber and Google Maps integrate data seamlessly."
+    "excerpt": "Bite-sized micro-guide breaking down What is an API? The Restaurant Waiter Analogy Explained with clear real-world analogies."
   },
   {
     "id": "post-007",
     "slug": "what-is-the-cloud-electric-power-grid-vs-backyard-generator",
     "title": "What is the Cloud? Electric Power Grid vs Backyard Generator",
-    "description": "A beginner-friendly guide explaining cloud computing using an electric power grid analogy, covering AWS, IaaS, PaaS, and Netflix scaling.",
+    "description": "Bite-sized micro-guide breaking down What is the Cloud? Electric Power Grid vs Backyard Generator with clear real-world analogies.",
     "contentPath": "users/pankajhyd/posts/what-is-the-cloud-electric-power-grid-vs-backyard-generator.md",
     "author": "pankajhyd",
     "authorDetails": {
@@ -225,30 +219,29 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
-    "date": "04-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "05-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Cloud Computing",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Cloud Computing",
-      "AWS",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining cloud computing using an electric power grid analogy, covering AWS, IaaS, PaaS, and Netflix scaling."
+    "excerpt": "Bite-sized micro-guide breaking down What is the Cloud? Electric Power Grid vs Backyard Generator with clear real-world analogies."
   },
   {
     "id": "post-008",
     "slug": "what-is-saas-renting-apartments-vs-buying-real-estate",
     "title": "What is SaaS? Renting Apartments vs Buying Real Estate",
-    "description": "A beginner-friendly guide explaining SaaS using an apartment renting analogy, covering multi-tenancy security, auto-upgrades, and cloud subscriptions.",
+    "description": "Bite-sized micro-guide breaking down What is SaaS? Renting Apartments vs Buying Real Estate with clear real-world analogies.",
     "contentPath": "users/pankajhyd/posts/what-is-saas-renting-apartments-vs-buying-real-estate.md",
     "author": "pankajhyd",
     "authorDetails": {
@@ -260,30 +253,29 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
-    "date": "04-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "05-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "SaaS & Business Models",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "SaaS",
-      "Cloud Software",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining SaaS using an apartment renting analogy, covering multi-tenancy security, auto-upgrades, and cloud subscriptions."
+    "excerpt": "Bite-sized micro-guide breaking down What is SaaS? Renting Apartments vs Buying Real Estate with clear real-world analogies."
   },
   {
     "id": "post-009",
     "slug": "what-is-devops-merging-builders-and-maintenance-teams",
     "title": "What is DevOps? Merging Builders and Maintenance Teams",
-    "description": "A beginner-friendly guide explaining DevOps using a Formula 1 pit stop analogy, covering CI/CD pipelines, automated testing, and Infrastructure as Code.",
+    "description": "Bite-sized micro-guide breaking down What is DevOps? Merging Builders and Maintenance Teams with clear real-world analogies.",
     "contentPath": "users/pankajhyd/posts/what-is-devops-merging-builders-and-maintenance-teams.md",
     "author": "pankajhyd",
     "authorDetails": {
@@ -295,31 +287,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
     "readTime": "6 min read",
-    "date": "04-Jan-2026",
+    "date": "06-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "DevOps & Workflows",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "DevOps",
-      "CI/CD",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining DevOps using a Formula 1 pit stop analogy, covering CI/CD pipelines, automated testing, and Infrastructure as Code."
+    "excerpt": "Bite-sized micro-guide breaking down What is DevOps? Merging Builders and Maintenance Teams with clear real-world analogies."
   },
   {
     "id": "post-010",
-    "slug": "monolith-vs-microservices-single-castle-vs-village-of-houses",
-    "title": "Monolith vs Microservices: Single Castle vs Village of Houses",
-    "description": "A beginner-friendly architectural comparison of Monoliths vs Microservices using a castle vs village analogy, explaining fault isolation and engineering trade-offs.",
-    "contentPath": "users/pankajhyd/posts/monolith-vs-microservices-single-castle-vs-village-of-houses.md",
+    "slug": "what-is-agile-cooking-one-dish-at-a-time-vs-huge-buffet",
+    "title": "What is Agile? Cooking One Dish at a Time vs Huge Buffet",
+    "description": "Bite-sized micro-guide breaking down What is Agile? Cooking One Dish at a Time vs Huge Buffet with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-agile-cooking-one-dish-at-a-time-vs-huge-buffet.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -330,31 +321,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
     "readTime": "6 min read",
-    "date": "05-Jan-2026",
+    "date": "06-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "System Architecture",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Microservices",
-      "Monolith",
-      "Architecture",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly architectural comparison of Monoliths vs Microservices using a castle vs village analogy, explaining fault isolation and engineering trade-offs."
+    "excerpt": "Bite-sized micro-guide breaking down What is Agile? Cooking One Dish at a Time vs Huge Buffet with clear real-world analogies."
   },
   {
     "id": "post-011",
-    "slug": "what-is-tech-debt-credit-card-debt-for-software",
-    "title": "What is Tech Debt? Credit Card Debt for Software",
-    "description": "A beginner-friendly guide explaining technical debt using a credit card analogy, covering strategic vs reckless debt, interest rates, and the 20% sprint rule.",
-    "contentPath": "users/pankajhyd/posts/what-is-tech-debt-credit-card-debt-for-software.md",
+    "slug": "what-is-tech-debt-credit-card-debt-in-software-engineering",
+    "title": "What is Tech Debt? Credit Card Debt in Software Engineering",
+    "description": "Bite-sized micro-guide breaking down What is Tech Debt? Credit Card Debt in Software Engineering with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-tech-debt-credit-card-debt-in-software-engineering.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -365,31 +355,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
-    "date": "05-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "07-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Engineering Leadership",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Tech Debt",
-      "Engineering Management",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining technical debt using a credit card analogy, covering strategic vs reckless debt, interest rates, and the 20% sprint rule."
+    "excerpt": "Bite-sized micro-guide breaking down What is Tech Debt? Credit Card Debt in Software Engineering with clear real-world analogies."
   },
   {
     "id": "post-012",
-    "slug": "open-source-vs-proprietary-software-public-libraries-vs-private-vaults",
-    "title": "Open Source vs Proprietary Software: Public Libraries vs Private Vaults",
-    "description": "A beginner-friendly comparison of open source vs proprietary software using a public library vs private secret vault analogy, covering security, licensing, and open AI.",
-    "contentPath": "users/pankajhyd/posts/open-source-vs-proprietary-software-public-libraries-vs-private-vaults.md",
+    "slug": "what-is-open-source-free-public-library-vs-private-bookstore",
+    "title": "What is Open Source? Free Public Library vs Private Bookstore",
+    "description": "Bite-sized micro-guide breaking down What is Open Source? Free Public Library vs Private Bookstore with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-open-source-free-public-library-vs-private-bookstore.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -400,31 +389,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
-    "date": "05-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "07-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Software Ecosystems",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Open Source",
-      "Proprietary Software",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly comparison of open source vs proprietary software using a public library vs private secret vault analogy, covering security, licensing, and open AI."
+    "excerpt": "Bite-sized micro-guide breaking down What is Open Source? Free Public Library vs Private Bookstore with clear real-world analogies."
   },
   {
     "id": "post-013",
-    "slug": "what-is-cybersecurity-castle-moats-vs-modern-zero-trust",
-    "title": "What is Cybersecurity? Castle Moats vs Modern Zero Trust Security",
-    "description": "A beginner-friendly guide explaining cybersecurity using a castle moat vs Zero Trust architecture analogy, covering phishing, ransomware, MFA, and encryption.",
-    "contentPath": "users/pankajhyd/posts/what-is-cybersecurity-castle-moats-vs-modern-zero-trust.md",
+    "slug": "what-is-a-database-digital-filing-cabinet-vs-excel-sheet",
+    "title": "What is a Database? Digital Filing Cabinet vs Excel Sheet",
+    "description": "Bite-sized micro-guide breaking down What is a Database? Digital Filing Cabinet vs Excel Sheet with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-a-database-digital-filing-cabinet-vs-excel-sheet.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -435,31 +423,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
     "readTime": "6 min read",
-    "date": "06-Jan-2026",
+    "date": "08-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Cybersecurity & Governance",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Cybersecurity",
-      "Zero Trust",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining cybersecurity using a castle moat vs Zero Trust architecture analogy, covering phishing, ransomware, MFA, and encryption."
+    "excerpt": "Bite-sized micro-guide breaking down What is a Database? Digital Filing Cabinet vs Excel Sheet with clear real-world analogies."
   },
   {
     "id": "post-014",
-    "slug": "what-is-ai-vs-ml-smart-calculators-vs-autonomous-learning",
-    "title": "What is AI vs ML vs Deep Learning? Smart Calculators vs Autonomous Pattern Learning",
-    "description": "A beginner-friendly guide demystifying AI, Machine Learning, and Deep Learning using a Russian Nesting Doll analogy and pizza apprentice chef story.",
-    "contentPath": "users/pankajhyd/posts/what-is-ai-vs-ml-smart-calculators-vs-autonomous-learning.md",
+    "slug": "what-is-frontend-vs-backend-car-dashboard-vs-car-engine",
+    "title": "What is Frontend vs Backend? Car Dashboard vs Car Engine",
+    "description": "Bite-sized micro-guide breaking down What is Frontend vs Backend? Car Dashboard vs Car Engine with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-frontend-vs-backend-car-dashboard-vs-car-engine.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -470,32 +457,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
     "readTime": "6 min read",
-    "date": "06-Jan-2026",
+    "date": "08-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Artificial Intelligence",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "AI",
-      "Machine Learning",
-      "Deep Learning",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide demystifying AI, Machine Learning, and Deep Learning using a Russian Nesting Doll analogy and pizza apprentice chef story."
+    "excerpt": "Bite-sized micro-guide breaking down What is Frontend vs Backend? Car Dashboard vs Car Engine with clear real-world analogies."
   },
   {
     "id": "post-015",
-    "slug": "what-is-generative-ai-llms-most-well-read-intern",
-    "title": "What is Generative AI & LLMs? The World's Most Well-Read Intern",
-    "description": "A beginner-friendly guide explaining Generative AI and Large Language Models using a well-read intern analogy, covering next-word prediction, hallucinations, and RAG.",
-    "contentPath": "users/pankajhyd/posts/what-is-generative-ai-llms-most-well-read-intern.md",
+    "slug": "what-is-ai-smart-calculator-vs-human-brain-assistant",
+    "title": "What is AI? Smart Calculator vs Human Brain Assistant",
+    "description": "Bite-sized micro-guide breaking down What is AI? Smart Calculator vs Human Brain Assistant with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-ai-smart-calculator-vs-human-brain-assistant.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -506,32 +491,30 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "5 min read",
-    "date": "06-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "09-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Generative AI & LLMs",
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
       "Beginner Guide"
     ],
     "tags": [
-      "Generative AI",
-      "LLM",
-      "ChatGPT",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "A beginner-friendly guide explaining Generative AI and Large Language Models using a well-read intern analogy, covering next-word prediction, hallucinations, and RAG."
+    "excerpt": "Bite-sized micro-guide breaking down What is AI? Smart Calculator vs Human Brain Assistant with clear real-world analogies."
   },
   {
     "id": "post-016",
-    "slug": "the-modern-executive-tech-stack-summary-capstone-guide",
-    "title": "The Modern Executive Tech Stack: Summary & Capstone Guide for Non-Tech Leaders",
-    "description": "The master capstone summary of Series 1, unifying 15 core tech concepts into an executive tech architecture map and 5 golden rules for technology leaders.",
-    "contentPath": "users/pankajhyd/posts/the-modern-executive-tech-stack-summary-capstone-guide.md",
+    "slug": "what-is-a-prompt-giving-clear-instructions-to-an-intern",
+    "title": "What is a Prompt? Giving clear instructions to an Intern",
+    "description": "Bite-sized micro-guide breaking down What is a Prompt? Giving clear instructions to an Intern with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/what-is-a-prompt-giving-clear-instructions-to-an-intern.md",
     "author": "pankajhyd",
     "authorDetails": {
       "id": "pankajhyd",
@@ -542,24 +525,23 @@
       "github": "https://github.com/pankajhyd",
       "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
     },
-    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80",
-    "readTime": "7 min read",
-    "date": "06-Jan-2026",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "09-Jan-2026",
     "draft": false,
     "categories": [
-      "Series 1: CTO Fundamentals",
-      "Executive Leadership",
-      "Capstone Guide"
+      "Series 1: CTO Fundamentals & Tech Jargon Buster",
+      "Beginner Foundations",
+      "Beginner Guide"
     ],
     "tags": [
-      "Tech Leadership",
-      "Executive Tech Stack",
-      "Beginners",
+      "Beginner Foundations",
+      "Executive Leadership",
       "Series 1",
       "PPT Presentation"
     ],
     "series": "series-1-cto-fundamentals-jargon-buster",
-    "excerpt": "The master capstone summary of Series 1, unifying 15 core tech concepts into an executive tech architecture map and 5 golden rules for technology leaders."
+    "excerpt": "Bite-sized micro-guide breaking down What is a Prompt? Giving clear instructions to an Intern with clear real-world analogies."
   },
   {
     "id": "post-017",
