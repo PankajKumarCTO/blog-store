@@ -1528,5 +1528,39 @@
     ],
     "series": "series-3-product-management-cpo-alignment",
     "excerpt": "Bite-sized micro-guide breaking down Managing Technical Roadmaps Alongside Product Backlogs with clear real-world analogies."
+  },
+  {
+    "id": "post-046",
+    "slug": "feature-flags-decoupling-code-deployment-from-feature-release",
+    "title": "Feature Flags: Decoupling Code Deployment from Feature Release",
+    "description": "Bite-sized micro-guide breaking down Feature Flags with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/feature-flags-decoupling-code-deployment-from-feature-release.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "08-Feb-2026",
+    "draft": false,
+    "categories": [
+      "Series 3: Product Management & CTO-CPO Synergy",
+      "Product & Strategy",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Product & Strategy",
+      "Executive Leadership",
+      "Series 3",
+      "PPT Presentation"
+    ],
+    "series": "series-3-product-management-cpo-alignment",
+    "excerpt": "Bite-sized micro-guide breaking down Feature Flags with clear real-world analogies."
   }
 ]
