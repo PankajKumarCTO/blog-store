@@ -109,9 +109,10 @@
       "post-044",
       "post-045",
       "post-046",
-      "post-047"
+      "post-047",
+      "post-048"
     ],
-    "status": "ongoing",
+    "status": "completed",
     "createdAt": "02-Jan-2026",
     "posts": [
       "post-033",
@@ -128,7 +129,8 @@
       "post-044",
       "post-045",
       "post-046",
-      "post-047"
+      "post-047",
+      "post-048"
     ],
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
   }
