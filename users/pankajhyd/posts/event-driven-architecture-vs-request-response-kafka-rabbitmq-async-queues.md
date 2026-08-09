@@ -103,7 +103,7 @@ Engineers often debate between RabbitMQ and Kafka:
 - **Synchronous (Request-Response)** = Client waits blocked for a server response.
 - **Asynchronous (Event-Driven)** = Client publishes an event and continues immediately without blocking.
 - **Message Broker** = Infrastructure software (Kafka / RabbitMQ) that buffers and routes event messages safely.
-- **CTO Golden Rule** = *"Use Request-Response for user queries, and Event-Driven Queues for background processing!"*
+- **CTO Golden Rule** = **"Use Request-Response for user queries, and Event-Driven Queues for background processing!"**
 
 ---
 
