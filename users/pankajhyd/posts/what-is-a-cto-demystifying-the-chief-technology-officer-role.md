@@ -54,11 +54,13 @@ Imagine a large ocean liner sailing across stormy seas:
 
 ```mermaid
 graph TD
-    CEO["CEO (Ship Captain: Sets Course & Destination)"] --> CTO["CTO (Chief Engineer: Owns Engine Room & Propulsion)"]
+    CEO["CEO (Ship Captain)<br/>Sets Destination & Strategy"] -->|Business Goals| CTO["CTO (Chief Engineer)<br/>Owns Propulsion & Systems"]
     
-    CTO --> Pillar1["1. Technical Architecture (Engine Blueprint)"]
-    CTO --> Pillar2["2. Business Alignment (Fuel Efficiency & Speed)"]
-    CTO --> Pillar3["3. Talent & Team (Engineers & Mechanics)"]
+    subgraph EngineRoom["The Engine Room (CTO Responsibilities)"]
+        CTO --> Pillar1["1. Architecture & Vision<br/>(Ship Engines & Blueprints)"]
+        CTO --> Pillar2["2. Business Alignment<br/>(Speed & Fuel Efficiency)"]
+        CTO --> Pillar3["3. Engineering Culture<br/>(Crew & Mechanics)"]
+    end
 ```
 
 - **The CEO (The Ship Captain):**  
