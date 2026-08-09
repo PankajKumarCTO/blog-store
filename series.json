@@ -139,10 +139,12 @@
     "title": "Series 4: Engineering Culture, Hiring & Team Topologies",
     "description": "Mastering technical talent sourcing, team topologies, DevEx, and high-performance engineering culture.",
     "articleIds": [
-      "post-049"
+      "post-049",
+      "post-050"
     ],
     "posts": [
-      "post-049"
+      "post-049",
+      "post-050"
     ],
     "status": "ongoing"
   }
