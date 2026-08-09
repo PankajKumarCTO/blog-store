@@ -1497,5 +1497,41 @@
     ],
     "series": "series-4-system-architecture-high-availability-disaster-recovery",
     "excerpt": "A beginner-friendly guide explaining API Gateways and resilience patterns using nightclub bouncer and fuse box analogies, covering rate limiting, token buckets, and circuit breaker states."
+  },
+  {
+    "id": "post-043",
+    "slug": "the-system-architecture-high-availability-disaster-recovery-masterclass-summary-capstone-guide",
+    "title": "The System Architecture, High Availability & Disaster Recovery Masterclass Summary",
+    "description": "The master capstone summary of Series 4, unifying Monoliths vs Microservices, High Availability SLAs, Disaster Recovery RTO/RPO, Load Balancing, Database Scaling, Event-Driven Architecture, and API Gateways into an executive playbook.",
+    "contentPath": "users/pankajhyd/posts/the-system-architecture-high-availability-disaster-recovery-masterclass-summary-capstone-guide.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "8 min read",
+    "date": "18-Jan-2026",
+    "draft": false,
+    "categories": [
+      "Series 4: System Architecture",
+      "Executive Masterclass",
+      "Capstone Guide"
+    ],
+    "tags": [
+      "System Architecture",
+      "High Availability",
+      "Disaster Recovery",
+      "Capstone",
+      "Series 4",
+      "PPT Presentation"
+    ],
+    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "excerpt": "The master capstone summary of Series 4, unifying Monoliths vs Microservices, High Availability SLAs, Disaster Recovery RTO/RPO, Load Balancing, Database Scaling, Event-Driven Architecture, and API Gateways into an executive playbook."
   }
 ]
