@@ -58,16 +58,16 @@ Imagine building a custom restaurant kitchen:
 ```mermaid
 graph TD
     Problem["Technical & Operational Need"] --> Process["Design Thinking Architecture Loop"]
-    
-    subgraph Phases["The 5 Design Thinking Phases"]
-        Process --> Phase1["1. Empathize (Understand Chef & Developer Reach)"]
-        Process --> Phase2["2. Define (Identify Friction & Bottlenecks)"]
-        Process --> Phase3["3. Ideate (Architect Ergonomic APIs & Pipelines)"]
-        Process --> Phase4["4. Prototype (Build Quick Proof-of-Concepts)"]
-        Process --> Phase5["5. Test (Gather Real Developer & User Feedback)"]
-    end
-    
-    Phases --> Solution["Empathetic & High-Performance System Architecture"]
+    Process --> Phase1["1. Empathize - Understand Developer & User Reach"]
+    Process --> Phase2["2. Define - Identify Friction & Bottlenecks"]
+    Process --> Phase3["3. Ideate - Architect Ergonomic APIs & Pipelines"]
+    Process --> Phase4["4. Prototype - Build Quick Proof-of-Concepts"]
+    Process --> Phase5["5. Test - Gather Real Developer & User Feedback"]
+    Phase1 --> Solution["Empathetic & High-Performance Architecture"]
+    Phase2 --> Solution
+    Phase3 --> Solution
+    Phase4 --> Solution
+    Phase5 --> Solution
 ```
 
 - **The Rigid Kitchen Builder:**  
