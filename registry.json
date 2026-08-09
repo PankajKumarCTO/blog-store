@@ -594,7 +594,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining Cloud FinOps using a leaking hotel water tap analogy, covering tagging, reserved instances, spot pricing, and cost unit economics."
   },
   {
@@ -630,7 +630,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining CapEx vs OpEx using a delivery fleet vs Uber Freight analogy, covering financial accounting, balance sheets, and cloud flexibility."
   },
   {
@@ -666,7 +666,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining Software ROI using an automated coffee machine analogy, covering financial returns, cost avoidance, payback period, and pitching to CFOs."
   },
   {
@@ -702,7 +702,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining how to build an engineering budget using a house renovation analogy, covering the 4 investment buckets, scenario planning, and board presentation."
   },
   {
@@ -738,7 +738,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining SaaS license management and Shadow IT using a gym membership and secret pantry analogy, covering zombie licenses, SSO security, and cost reduction."
   },
   {
@@ -774,7 +774,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining the Build vs Buy software framework using a tailored suit vs off-the-rack analogy, covering competitive advantage, TCO, and opportunity cost."
   },
   {
@@ -810,7 +810,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining Technical Due Diligence in M&A using a used car pre-purchase inspection analogy, covering code quality, security liabilities, and GPL license risks."
   },
   {
@@ -846,7 +846,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining vendor lock-in and cloud negotiation using a cable TV teaser deal analogy, covering containers, open standards, and EDP discounts."
   },
   {
@@ -883,7 +883,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining FinTech payment systems using a casino coat check analogy, covering PCI-DSS compliance, payment gateways, and credit card tokenization."
   },
   {
@@ -919,7 +919,7 @@
       "Series 2",
       "PPT Presentation"
     ],
-    "series": "series-2-finance-tech-budgeting-cloud-finops",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "The master capstone summary of Series 2, unifying Cloud FinOps, ROI, CapEx vs OpEx, SaaS management, and M&A technical due diligence into an executive tech finance playbook."
   },
   {
@@ -955,7 +955,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining Team Topologies using a professional football team analogy, covering stream-aligned teams, enabling teams, platform teams, and cognitive load."
   },
   {
@@ -991,7 +991,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining Blameless Postmortems using an aircraft crash investigation analogy, covering psychological safety, the 5 Whys technique, and incident root cause analysis."
   },
   {
@@ -1027,7 +1027,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining Developer Experience (DevEx) using a highway tollbooth vs F1 pit stop analogy, covering inner loop feedback, self-service portals, and engineer retention."
   },
   {
@@ -1063,7 +1063,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining DORA Metrics vs Vanity Metrics using a hospital patient recovery analogy, covering deployment frequency, lead time, change failure rate, and MTTR."
   },
   {
@@ -1099,7 +1099,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining Dual Career Tracks in tech using a master chef vs restaurant manager analogy, covering Staff/Principal IC paths, compensation parity, and the Peter Principle."
   },
   {
@@ -1135,7 +1135,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-2-cto-ceo-executive-strategy",
     "excerpt": "A beginner-friendly guide explaining developer onboarding using a restaurant line cook analogy, covering Time-to-First-PR, automated Codespaces, onboarding buddies, and 30-60-90 day plans."
   },
   {
@@ -1171,7 +1171,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining async-first remote work using an airport flight radar analogy, covering maker vs manager schedules, RFC decision-making, and deep work protection."
   },
   {
@@ -1207,7 +1207,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining technical debt using a credit card interest analogy, covering prudent vs reckless debt, pitching refactoring in business metrics, and the 20% sprint rule."
   },
   {
@@ -1243,7 +1243,7 @@
       "Series 3",
       "PPT Presentation"
     ],
-    "series": "series-3-engineering-culture-team-topologies-talent",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "The master capstone summary of Series 3, unifying Team Topologies, blameless postmortems, DevEx, DORA metrics, dual career tracks, and technical debt governance into a leadership playbook."
   },
   {
@@ -1279,7 +1279,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining software architecture evolution using a department store analogy, covering Monoliths, Microservices, Serverless, and CTO migration frameworks."
   },
   {
@@ -1315,7 +1315,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining High Availability using a hospital backup generator analogy, covering SLA, SLO, SLI, active-passive failover, and the exponential cost of nines."
   },
   {
@@ -1351,7 +1351,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining Disaster Recovery using a bank vault analogy, covering RTO, RPO, cold vs hot failover strategies, and the 3-2-1 backup rule."
   },
   {
@@ -1387,7 +1387,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining traffic management using airport security and local warehouse analogies, covering L4 vs L7 load balancing, global CDN caching, and routing algorithms."
   },
   {
@@ -1423,7 +1423,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining database scaling using a public library analogy, covering Redis in-memory caching, read-write splitting, and horizontal sharding."
   },
   {
@@ -1459,7 +1459,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining Event-Driven Architecture using a restaurant buzzer analogy, covering Kafka, RabbitMQ message queues, and async background processing."
   },
   {
@@ -1495,7 +1495,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "A beginner-friendly guide explaining API Gateways and resilience patterns using nightclub bouncer and fuse box analogies, covering rate limiting, token buckets, and circuit breaker states."
   },
   {
@@ -1531,7 +1531,7 @@
       "Series 4",
       "PPT Presentation"
     ],
-    "series": "series-4-system-architecture-high-availability-disaster-recovery",
+    "series": "series-3-product-management-cpo-alignment",
     "excerpt": "The master capstone summary of Series 4, unifying Monoliths vs Microservices, High Availability SLAs, Disaster Recovery RTO/RPO, Load Balancing, Database Scaling, Event-Driven Architecture, and API Gateways into an executive playbook."
   }
 ]

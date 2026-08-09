@@ -2,7 +2,7 @@
   {
     "id": "series-1-cto-fundamentals-jargon-buster",
     "title": "Series 1: CTO Fundamentals & Tech Jargon Buster",
-    "description": "A 16-part beginner-friendly masterclass demystifying Chief Technology Officer roles, corporate titles, software architecture, cloud, SaaS, DevOps, APIs, and AI using simple everyday analogies.",
+    "description": "An executive masterclass on Series 1: CTO Fundamentals & Tech Jargon Buster (Foundations & Basics) designed for technology leaders, CTOs, and software architects.",
     "author": "pankajhyd",
     "articleIds": [
       "post-001",
@@ -45,9 +45,9 @@
     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
   },
   {
-    "id": "series-2-finance-tech-budgeting-cloud-finops",
-    "title": "Series 2: Finance & Tech Budgeting (Cloud FinOps, ROI, CapEx vs OpEx)",
-    "description": "An executive masterclass bridging technology decisions with financial management, cloud cost optimization (FinOps), ROI calculations, CapEx vs OpEx, and board-level budget pitching.",
+    "id": "series-2-cto-ceo-executive-strategy",
+    "title": "Series 2: CTO & CEO Strategic Alignment",
+    "description": "An executive masterclass on Series 2: CTO & CEO Strategic Alignment (CEO & Executive Board) designed for technology leaders, CTOs, and software architects.",
     "author": "pankajhyd",
     "articleIds": [
       "post-017",
@@ -59,10 +59,16 @@
       "post-023",
       "post-024",
       "post-025",
-      "post-026"
+      "post-026",
+      "post-027",
+      "post-028",
+      "post-029",
+      "post-030",
+      "post-031",
+      "post-032"
     ],
     "status": "completed",
-    "createdAt": "07-Jan-2026",
+    "createdAt": "02-Jan-2026",
     "posts": [
       "post-017",
       "post-018",
@@ -73,47 +79,25 @@
       "post-023",
       "post-024",
       "post-025",
-      "post-026"
-    ],
-    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80"
-  },
-  {
-    "id": "series-3-engineering-culture-team-topologies-talent",
-    "title": "Series 3: Engineering Culture, Team Topologies & Talent Retention",
-    "description": "An executive masterclass on structuring software engineering teams, reducing cognitive load, scaling team topologies, building blameless postmortem cultures, and retaining top technical talent.",
-    "author": "pankajhyd",
-    "articleIds": [
+      "post-026",
       "post-027",
       "post-028",
       "post-029",
       "post-030",
       "post-031",
-      "post-032",
-      "post-033",
-      "post-034",
-      "post-035"
+      "post-032"
     ],
-    "status": "completed",
-    "createdAt": "11-Jan-2026",
-    "posts": [
-      "post-027",
-      "post-028",
-      "post-029",
-      "post-030",
-      "post-031",
-      "post-032",
-      "post-033",
-      "post-034",
-      "post-035"
-    ],
-    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80"
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
   },
   {
-    "id": "series-4-system-architecture-high-availability-disaster-recovery",
-    "title": "Series 4: System Architecture, High Availability & Disaster Recovery",
-    "description": "An executive masterclass on designing resilient software architectures, scaling monoliths to microservices, load balancing, multi-region failover, database sharding, and SLA/SLO/SLI compliance.",
+    "id": "series-3-product-management-cpo-alignment",
+    "title": "Series 3: Product Management & CTO-CPO Synergy",
+    "description": "An executive masterclass on Series 3: Product Management & CTO-CPO Synergy (Product Management) designed for technology leaders, CTOs, and software architects.",
     "author": "pankajhyd",
     "articleIds": [
+      "post-033",
+      "post-034",
+      "post-035",
       "post-036",
       "post-037",
       "post-038",
@@ -123,9 +107,12 @@
       "post-042",
       "post-043"
     ],
-    "status": "completed",
-    "createdAt": "15-Jan-2026",
+    "status": "ongoing",
+    "createdAt": "02-Jan-2026",
     "posts": [
+      "post-033",
+      "post-034",
+      "post-035",
       "post-036",
       "post-037",
       "post-038",
@@ -135,6 +122,6 @@
       "post-042",
       "post-043"
     ],
-    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
   }
 ]
