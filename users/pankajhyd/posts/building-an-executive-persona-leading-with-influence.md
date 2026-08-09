@@ -56,15 +56,14 @@ Imagine representing a nation at an international summit:
 ```mermaid
 graph TD
     TechLeader["Senior Engineer / Architect"] --> Shift{"Developing Executive Persona"}
-    
-    subgraph Pillars["The 4 Pillars of Executive Influence"]
-        Shift --> Composure["1. Gravitas & Composure<br/>(Calm Leadership During Outages)"]
-        Shift --> EQ["2. Emotional Intelligence<br/>(Empathetic Listening to C-Suite Peers)"]
-        Shift --> Language["3. Business Fluency<br/>(BLUF: Bottom Line Up Front)"]
-        Shift --> Vision["4. Strategic Vision<br/>(Inspiring Multi-Year Roadmap)"]
-    end
-    
-    Pillars --> Ambassador["The Diplomatic Ambassador (Executive CTO)"]
+    Shift --> Composure["1. Gravitas & Composure (Calm During Outages)"]
+    Shift --> EQ["2. Emotional Intelligence (Empathetic Listening)"]
+    Shift --> Language["3. Business Fluency (BLUF Communication)"]
+    Shift --> Vision["4. Strategic Vision (Inspiring Roadmap)"]
+    Composure --> Ambassador["The Executive CTO (Diplomatic Ambassador)"]
+    EQ --> Ambassador
+    Language --> Ambassador
+    Vision --> Ambassador
 ```
 
 - **The Border Guard (Junior Coder Mindset):**  
