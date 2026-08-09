@@ -54,14 +54,11 @@ Imagine designing and constructing a luxury home:
 
 ```mermaid
 graph TD
-    User["Customer / Market Demand"] --> Steering["Product-Tech Steering Committee"]
-    
-    subgraph Partnership["Executive Co-Pilots"]
-        Steering --> CPO["1. CPO (Interior Designer)<br/>User Discovery, UI/UX & What to Build"]
-        Steering --> CTO["2. CTO (Structural Architect)<br/>System Architecture, Security & How to Build"]
-    end
-    
-    Partnership --> Delivery["Dual-Track Agile (Discovery & Delivery)"]
+    User["Customer & Market Demand"] --> Steering["Product-Tech Steering Committee"]
+    Steering --> CPO["1. CPO (Interior Designer) - What to Build & UI/UX"]
+    Steering --> CTO["2. CTO (Structural Architect) - How to Build & Architecture"]
+    CPO --> Delivery["Dual-Track Agile Discovery & Delivery"]
+    CTO --> Delivery
     Delivery --> Launch["High-Impact Market Product Launch"]
 ```
 
