@@ -57,16 +57,13 @@ Imagine auditioning a new violinist for a world-class symphony orchestra:
 
 ```mermaid
 graph TD
-    Candidate["Engineering Candidate Application"] --> Loop["The 4-Stage Practical Interview Loop"]
+    Candidate["Violin Candidate (Software Applicant)"] --> AuditChoice{"Interview Method Choice"}
     
-    subgraph Audition["Practical Real-World Audition"]
-        Loop --> Stage1["1. Technical & Culture Intro (30 Mins)"]
-        Loop --> Stage2["2. Collaborative Pair Programming (60 Mins)<br/>(Debugging real API code with documentation)"]
-        Loop --> Stage3["3. Practical System Design (60 Mins)<br/>(Scaling real-world production architecture)"]
-        Loop --> Stage4["4. Executive Values Sync (30 Mins)"]
-    end
+    AuditChoice --> Quiz["1. Written Theory Quiz (Trivia Algorithmic Puzzles)<br/>No instrument allowed & high anxiety"]
+    AuditChoice --> Audition["2. Live Orchestra Audition (Practical CTO Loop)<br/>Real instrument & collaborative section play"]
     
-    Audition --> Decision["Fast Offer Decision within 48 Hours"]
+    Quiz --> BadHire["Hire Textbook Memorizer (Poor Tone & Morale)"]
+    Audition --> TopTalent["Hire Virtuoso Performer (High Quality & Speed)"]
 ```
 
 - **The Written Music Quiz (Traditional Interview):**  
