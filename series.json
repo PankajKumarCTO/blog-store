@@ -217,5 +217,17 @@
       "post-240"
     ],
     "status": "completed"
+  },
+  {
+    "id": "series-5-agile-scrum-process-scaling",
+    "title": "Series 5: Agile Execution, Scrum & Process Scaling",
+    "description": "Mastering executive Agile frameworks, Scrum ceremonies, velocity metrics, and scaling processes across squads.",
+    "articleIds": [
+      "post-065"
+    ],
+    "posts": [
+      "post-065"
+    ],
+    "status": "ongoing"
   }
 ]
