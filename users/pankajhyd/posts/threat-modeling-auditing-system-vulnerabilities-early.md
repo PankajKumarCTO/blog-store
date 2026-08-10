@@ -5,6 +5,9 @@
 - **Author:** Pankaj Kumar | Associate Architect & Tech Leadership
 <!-- slide -->
 # Slide 2: The Friendly Home Security Auditor Analogy
+
+![Cartoon Analogy Illustration](users/pankajhyd/images/threat_modeling_analogy.jpg)
+
 - **Careless Homeowner (No Threat Modeling):** Builds a luxury mansion, puts expensive jewelry inside, and locks the front door. But leaves a basement window unlocked and a spare key hidden under the doormat! A burglar breaks in effortlessly.
 - **Master Home Security Auditor (CTO Threat Modeling):** Hires a security specialist (*Friendly Auditor*) to walk around the perimeter, test every window latch, inspect the garage roof, and install motion sensors *before* moving valuable artwork inside!
 <!-- slide -->
@@ -56,6 +59,8 @@ Let's understand Threat Modeling using **The Friendly Home Security Auditor Anal
 ---
 
 ## 🏡 The Friendly Home Security Auditor Analogy
+
+![Cartoon Analogy Illustration](users/pankajhyd/images/threat_modeling_analogy.jpg)
 
 Imagine protecting a new luxury home before moving in:
 
