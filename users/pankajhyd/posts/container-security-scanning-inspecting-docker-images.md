@@ -60,16 +60,12 @@ Imagine managing security at a major international seaport:
 
 ```mermaid
 graph TD
-    Dockerfile["Dockerfile Build"] --> ImageBuild["Docker Container Image Created"]
+    Build["1. Dockerfile Build & Image Creation"] --> Scanner["2. X-Ray Container Scanner (Trivy / Clair)"]
+    Scanner --> Audit["3. Minimal Distroless Base Image Audit"]
+    Audit --> Privilege["4. Non-Root User Execution Check (USER 10001)"]
     
-    subgraph CustomsInspection["Port Customs Security Inspection"]
-        ImageBuild --> TrivyScan["1. X-Ray Container Scanner (Trivy / Clair)"]
-        TrivyScan --> MinimalBase["2. Minimal Distroless Base Image Audit"]
-        MinimalBase --> NonRootCheck["3. Non-Root User Execution Check (USER 10001)"]
-    end
-    
-    NonRootCheck -->|Passed - Zero Critical CVEs| K8sDeploy["Deploy to Production Kubernetes Cluster"]
-    NonRootCheck -->|Failed - Critical CVE Found| Blocked["Deployment Blocked in CI/CD (< 45s)"]
+    Privilege -->|Passed - Zero Critical CVEs| Deploy["Deploy to Production Kubernetes Cluster"]
+    Privilege -->|Failed - Critical CVE Found| Blocked["Deployment Blocked in CI/CD (< 45s)"]
 ```
 
 - **The Careless Seaport (Unscanned Docker Images):**  
