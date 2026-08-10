@@ -1,5 +1,8 @@
 ```ppt
 # Slide 1: Cybersecurity as a Boardroom Risk
+
+![Cartoon Analogy Illustration](users/pankajhyd/images/cybersecurity_boardroom_risk_analogy.jpg)
+
 - **The Executive Imperative:** Elevating cybersecurity from an IT department problem to a top-tier Boardroom risk and business continuity priority.
 - **Series 15 Kickoff:** Cybersecurity Strategy & Zero Trust Defense.
 - **Author:** Pankaj Kumar | Associate Architect & Tech Leadership

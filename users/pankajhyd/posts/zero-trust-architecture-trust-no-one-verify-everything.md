@@ -1,5 +1,8 @@
 ```ppt
 # Slide 1: Zero Trust Architecture (ZTA)
+
+![Cartoon Analogy Illustration](users/pankajhyd/images/zero_trust_architecture_analogy.jpg)
+
 - **The Core Security Paradigm:** Assuming that every network request, user identity, and service connection is untrusted until continuously authenticated and authorized.
 - **Executive Security Motto:** Never Trust, Always Verify!
 - **Author:** Pankaj Kumar | Associate Architect & Tech Leadership
