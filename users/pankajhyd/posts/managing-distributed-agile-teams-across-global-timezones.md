@@ -65,13 +65,9 @@ Imagine a 4x400m Olympic relay race around the globe:
 
 ```mermaid
 graph TD
-    USSquad["1. San Francisco Squad (PST Day)<br/>Refines Backlog & Ships PRs"] -->|Async Handoff (Loom & PR)| IndiaSquad["2. Bengaluru Squad (IST Day)<br/>Reviews Code & Expands Features"]
-    
-    subgraph AsyncPipeline["Asynchronous Global Engineering Loop"]
-        IndiaSquad -->|Async Handoff (Git & Jira)| EuropeSquad["3. London Squad (GMT Day)<br/>Runs QA & Deploys Staging"]
-    end
-    
-    AsyncPipeline --> ContinuousVelocity["24-Hour Continuous Development Cycle"]
+    USSquad["1. San Francisco Squad (PST Day) - Refines Backlog & Ships PRs"] -->|Async Handoff - Loom & PR| IndiaSquad["2. Bengaluru Squad (IST Day) - Reviews Code & Expands Features"]
+    IndiaSquad -->|Async Handoff - Git & Jira| EuropeSquad["3. London Squad (GMT Day) - Runs QA & Deploys Staging"]
+    EuropeSquad -->|24-Hour Loop| ContinuousVelocity["4. Continuous Global Release Cycle Completed"]
 ```
 
 - **The Uncoordinated Relay (Synchronous Dependency Trap):**  
