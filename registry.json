@@ -3228,5 +3228,39 @@
     ],
     "series": "series-5-agile-scrum-process-scaling",
     "excerpt": "Bite-sized micro-guide breaking down Fixing Broken Agile with clear real-world analogies."
+  },
+  {
+    "id": "post-080",
+    "slug": "agile-contracting-negotiating-flexible-scope-with-clients",
+    "title": "Agile Contracting: Negotiating Flexible Scope with Clients",
+    "description": "Bite-sized micro-guide breaking down Agile Contracting with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/agile-contracting-negotiating-flexible-scope-with-clients.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "10-Sep-2026",
+    "draft": false,
+    "categories": [
+      "Series 5: Agile Execution, Scrum & Process Scaling",
+      "Agile & Process",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Agile & Process",
+      "Executive Leadership",
+      "Series 5",
+      "PPT Presentation"
+    ],
+    "series": "series-5-agile-scrum-process-scaling",
+    "excerpt": "Bite-sized micro-guide breaking down Agile Contracting with clear real-world analogies."
   }
 ]
