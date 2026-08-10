@@ -3568,5 +3568,39 @@
     ],
     "series": "series-6-marketing-devrel-brand-strategy",
     "excerpt": "Bite-sized micro-guide breaking down Co-Marketing with Cloud Vendors (AWS, Google, Microsoft) with clear real-world analogies."
+  },
+  {
+    "id": "post-090",
+    "slug": "product-hunt-hacker-news-launch-strategy-for-tech-teams",
+    "title": "Product Hunt & Hacker News Launch Strategy for Tech Teams",
+    "description": "Bite-sized micro-guide breaking down Product Hunt & Hacker News Launch Strategy for Tech Teams with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/product-hunt-hacker-news-launch-strategy-for-tech-teams.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "15-May-2026",
+    "draft": false,
+    "categories": [
+      "Series 6: Marketing, Developer Relations & Technical Brand Strategy",
+      "Marketing & Brand",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Marketing & Brand",
+      "Executive Leadership",
+      "Series 6",
+      "PPT Presentation"
+    ],
+    "series": "series-6-marketing-devrel-brand-strategy",
+    "excerpt": "Bite-sized micro-guide breaking down Product Hunt & Hacker News Launch Strategy for Tech Teams with clear real-world analogies."
   }
 ]
