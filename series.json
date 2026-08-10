@@ -181,10 +181,12 @@
     "title": "Series 15: Cybersecurity Strategy & Zero Trust Defense",
     "description": "Mastering executive cybersecurity strategy, zero trust architecture, threat modeling, and incident response.",
     "articleIds": [
-      "post-225"
+      "post-225",
+      "post-226"
     ],
     "posts": [
-      "post-225"
+      "post-225",
+      "post-226"
     ],
     "status": "ongoing"
   }
