@@ -265,10 +265,12 @@
     "title": "Series 6: Marketing, Developer Relations & Technical Brand Strategy",
     "description": "Mastering developer marketing, DevRel advocacy, technical content strategy, open-source community building, and CTO personal brand.",
     "articleIds": [
-      "post-081"
+      "post-081",
+      "post-082"
     ],
     "posts": [
-      "post-081"
+      "post-081",
+      "post-082"
     ],
     "status": "ongoing"
   }
