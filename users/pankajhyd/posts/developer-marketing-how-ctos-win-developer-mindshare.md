@@ -60,6 +60,8 @@ Let's understand Developer Marketing using **The Free High-Quality Craftsman Too
 
 ## 🛠️ The Free High-Quality Craftsman Toolkit Analogy
 
+![Developer Marketing Analogy](users/pankajhyd/images/developer_marketing_analogy.jpg)
+
 Imagine marketing tools at an international master carpenters' convention:
 
 ```mermaid
