@@ -65,11 +65,11 @@ graph TD
     subgraph CustomsInspection["Port Customs Security Inspection"]
         ImageBuild --> TrivyScan["1. X-Ray Container Scanner (Trivy / Clair)"]
         TrivyScan --> MinimalBase["2. Minimal Distroless Base Image Audit"]
-        TrivyScan --> NonRootCheck["3. Non-Root User Execution Check (USER 10001)"]
+        MinimalBase --> NonRootCheck["3. Non-Root User Execution Check (USER 10001)"]
     end
     
-    CustomsInspection -->|Passed (Zero Critical CVEs)| K8sDeploy["Deploy to Production Kubernetes Cluster"]
-    CustomsInspection -->|Failed (Critical CVE Found)| Blocked["Deployment Blocked in CI/CD (< 45s)"]
+    NonRootCheck -->|Passed - Zero Critical CVEs| K8sDeploy["Deploy to Production Kubernetes Cluster"]
+    NonRootCheck -->|Failed - Critical CVE Found| Blocked["Deployment Blocked in CI/CD (< 45s)"]
 ```
 
 - **The Careless Seaport (Unscanned Docker Images):**  
