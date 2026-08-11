@@ -301,5 +301,17 @@
       "post-096"
     ],
     "status": "completed"
+  },
+  {
+    "id": "series-7-sales-revops-commercial-execution",
+    "title": "Series 7: Sales, Revenue Engineering & Commercial Execution",
+    "description": "Mastering technical sales engineering, proof-of-concept prototypes, SOC2 compliance, PLG freemium gateways, RevOps data pipelines, multi-tenancy, and enterprise SLAs.",
+    "posts": [
+      "post-097"
+    ],
+    "articleIds": [
+      "post-097"
+    ],
+    "status": "ongoing"
   }
 ]
