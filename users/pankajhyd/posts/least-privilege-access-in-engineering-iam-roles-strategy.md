@@ -56,6 +56,9 @@ Let's understand Least Privilege Access using **The Office Janitor & Finance Saf
 
 ## 🔑 The Office Janitor & Finance Safe Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/least_privilege_access_analogy.jpg)
+
+
 Imagine managing security at a commercial corporate tower:
 
 ```mermaid

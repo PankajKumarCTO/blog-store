@@ -55,6 +55,9 @@ Let's understand Cyber Crisis Recovery using **The Isolating an Infected Hospita
 
 ## 🏥 The Isolating an Infected Hospital Wing Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/cyber_crisis_recovery_analogy.jpg)
+
+
 Imagine responding to a viral outbreak inside a major medical hospital:
 
 ```mermaid

@@ -54,6 +54,9 @@ Let's understand WAF using **The Nightclub Bouncer Analogy**!
 
 ## 🚪 The Nightclub Bouncer Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/waf_traffic_filtering_analogy.jpg)
+
+
 Imagine managing security at an exclusive VIP nightclub:
 
 ```mermaid

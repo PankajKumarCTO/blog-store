@@ -56,6 +56,9 @@ Let's understand Container Security using **The Customs Cargo Container X-Ray An
 
 ## 🚢 The Customs Cargo Container X-Ray Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/container_security_scanning_analogy.jpg)
+
+
 Imagine managing security at a major international seaport:
 
 ```mermaid

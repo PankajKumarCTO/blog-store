@@ -56,6 +56,9 @@ Let's understand API Security using **The Restaurant Kitchen Pass-Through Analog
 
 ## 🍽️ The Restaurant Kitchen Pass-Through Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/api_security_owasp_analogy.jpg)
+
+
 Imagine managing a busy fine-dining restaurant:
 
 ```mermaid

@@ -52,6 +52,9 @@ Let's understand Penetration Testing using **The Simulated Bank Heist Drill Anal
 
 ## 🏦 The Simulated Bank Heist Drill Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/penetration_testing_analogy.jpg)
+
+
 Imagine testing security at a new commercial bank:
 
 ```mermaid

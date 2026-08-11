@@ -55,6 +55,9 @@ Let's understand Social Engineering Defense using **The Fake Plumber at the Door
 
 ## 🚪 The Fake Plumber at the Door Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/phishing_social_engineering_analogy.jpg)
+
+
 Imagine managing security at a corporate headquarters:
 
 ```mermaid

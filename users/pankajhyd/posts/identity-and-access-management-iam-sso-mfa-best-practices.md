@@ -52,6 +52,9 @@ Let's understand IAM using **The High-Tech Skyscraper Master Keycard Analogy**!
 
 ## 🏢 The High-Tech Skyscraper Master Keycard Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/iam_sso_mfa_analogy.jpg)
+
+
 Imagine managing security at a 50-story commercial skyscraper:
 
 ```mermaid

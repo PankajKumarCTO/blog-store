@@ -56,6 +56,9 @@ Let's understand DevSecOps using **The Door Lock Installation During Constructio
 
 ## 🏗️ The Door Lock Installation During Construction Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/devsecops_ci_cd_gates_analogy.jpg)
+
+
 Imagine building a modern residential apartment complex:
 
 ```mermaid

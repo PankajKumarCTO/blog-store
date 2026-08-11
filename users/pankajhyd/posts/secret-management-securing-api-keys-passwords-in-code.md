@@ -64,6 +64,9 @@ Let's understand Secret Management using **The Bank Vault vs. Key Under Doormat 
 
 ## 🔑 The Bank Vault vs. Key Under Doormat Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/secret_management_analogy.jpg)
+
+
 Imagine protecting the master keys to a high-security vault:
 
 ```mermaid

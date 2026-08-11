@@ -53,6 +53,9 @@ Let's understand Encryption using **The Secret Coded Message in an Armor Briefca
 
 ## 🔒 The Secret Coded Message in an Armor Briefcase Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/data_encryption_analogy.jpg)
+
+
 Imagine sending a confidential financial document across the world:
 
 ```mermaid

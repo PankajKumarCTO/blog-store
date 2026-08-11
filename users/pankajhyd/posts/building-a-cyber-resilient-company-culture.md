@@ -54,6 +54,9 @@ Let's understand Cyber Resilience using **The Locking Desk Drawers Before Leavin
 
 ## 🏢 The Locking Desk Drawers Before Leaving Analogy
 
+![Cartoon Analogy Illustration](users/pankajhyd/images/cyber_resilient_culture_analogy.jpg)
+
+
 Imagine managing security at a corporate headquarters:
 
 ```mermaid
