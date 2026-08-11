@@ -41,7 +41,6 @@
 
 # Zero Trust Architecture: Trust No One, Verify Everything
 
-![Cartoon Analogy Illustration](users/pankajhyd/images/zero_trust_architecture_analogy.jpg)
 
 For over 30 years, computer security relied on **Perimeter Defense (The Castle and Moat Model)**.
 

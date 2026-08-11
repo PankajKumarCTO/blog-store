@@ -6,7 +6,6 @@
 <!-- slide -->
 # Slide 2: The Bank Safe Deposit Box Duplicate Analogy
 
-![Cartoon Analogy Illustration](users/pankajhyd/images/ransomware_immutable_backups_analogy.jpg)
 
 - **Careless Homeowner (Paying Ransom):** Keeps only one set of house keys. A burglar steals the keys, locks the owner out, and demands $50,000 to return them. The homeowner pays, but the burglar makes a copy of the key anyway!
 - **Master Security Warden (CTO Immutable Strategy):** Keeps an encrypted duplicate set of keys locked inside a bank safe deposit box (*Immutable WORM Storage*). When a burglar locks the front door, the homeowner retrieves the safe deposit key, unlocks the door in 10 minutes, and ignores the extortionist!
@@ -60,6 +59,9 @@ Let's understand Ransomware Defense using **The Bank Safe Deposit Box Analogy**!
 ---
 
 ## 🔐 The Bank Safe Deposit Box Analogy
+
+![Cartoon Analogy Illustration](users/pankajhyd/images/ransomware_immutable_backups_analogy.jpg)
+
 
 Imagine protecting the keys to your home:
 
