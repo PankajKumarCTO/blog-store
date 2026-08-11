@@ -55,7 +55,7 @@ Let's understand 2-Week POCs using **The Endless Fabric Debate vs. Tailored Samp
 
 ## ✂️ The Endless Fabric Debate vs. Tailored Sample Suit Analogy
 
-![POC Prototype Analogy](users/pankajhyd/images/sales_engineering_mechanic_analogy.jpg)
+![POC Prototype Analogy](users/pankajhyd/images/poc_prototype_sample_suit_analogy.jpg)
 
 Imagine winning a bulk corporate uniform contract for a VIP corporate client:
 
