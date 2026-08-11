@@ -3874,5 +3874,39 @@
     ],
     "series": "series-7-sales-revops-commercial-execution",
     "excerpt": "Bite-sized micro-guide breaking down Building 2-Week Proof-of-Concept (POC) Prototypes for Clients with clear real-world analogies."
+  },
+  {
+    "id": "post-099",
+    "slug": "handling-security-questionnaires-soc2-to-unblock-sales",
+    "title": "Handling Security Questionnaires & SOC2 to Unblock Sales",
+    "description": "Bite-sized micro-guide breaking down Handling Security Questionnaires & SOC2 to Unblock Sales with clear real-world analogies.",
+    "contentPath": "users/pankajhyd/posts/handling-security-questionnaires-soc2-to-unblock-sales.md",
+    "author": "pankajhyd",
+    "authorDetails": {
+      "id": "pankajhyd",
+      "name": "Pankaj Kumar",
+      "role": "Associate Architect",
+      "avatar": "users/pankajhyd/images/avatar.jpg",
+      "bio": "Executive Leadership, Engineering Culture, System Architecture & Technology Strategy",
+      "github": "https://github.com/pankajhyd",
+      "linkedin": "https://www.linkedin.com/in/pankaj-kumar-94a2b227/"
+    },
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "readTime": "6 min read",
+    "date": "05-Jun-2026",
+    "draft": false,
+    "categories": [
+      "Series 7: Sales, Revenue Engineering & Commercial Execution",
+      "Sales & Commercial",
+      "Beginner Guide"
+    ],
+    "tags": [
+      "Sales & Commercial",
+      "Executive Leadership",
+      "Series 7",
+      "PPT Presentation"
+    ],
+    "series": "series-7-sales-revops-commercial-execution",
+    "excerpt": "Bite-sized micro-guide breaking down Handling Security Questionnaires & SOC2 to Unblock Sales with clear real-world analogies."
   }
 ]
