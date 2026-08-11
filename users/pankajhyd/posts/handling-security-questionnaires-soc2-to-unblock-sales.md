@@ -56,7 +56,9 @@ Let's understand Security Sales Unblocking using **The Messy Paper Questionnaire
 
 ## 🎖️ The Messy Paper Questionnaires vs. Certified Health Badge Analogy
 
-![Security SOC2 Compliance Analogy](users/pankajhyd/images/security_soc2_compliance_analogy.jpg)
+![Cartoon Analogy Illustration](users/pankajhyd/images/security_soc2_compliance_analogy.jpg)
+
+
 
 Imagine hosting major corporate banquets at a fine-dining establishment:
 
